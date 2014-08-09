@@ -263,6 +263,21 @@ Zurich, 31.
 \begin_inset Quotes eld
 \end_inset
 
+Jones Zitieren
+\begin_inset Quotes erd
+\end_inset
+
+The purpose of design theory is to support the achievement of goals
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Dedication
+\begin_inset Quotes erd
+\end_inset
+
 People forget how fast you did a job – but they remember how well you did
  it
 \begin_inset Quotes erd
@@ -690,6 +705,7 @@ restore the right header line
 \begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
+btprint "btPrintAll"
 bibfiles "citations"
 options "alpha"
 

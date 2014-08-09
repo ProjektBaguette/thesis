@@ -303,7 +303,7 @@ s, have strict deadlines for certain artifacts and a cap on expenses which
 \end_layout
 
 \begin_layout Section
-Questioning
+Research Hypothesys
 \end_layout
 
 \begin_layout Standard
@@ -324,8 +324,8 @@ The main question to answer will be:
  Hongying.
  Y.
  Cheng, 2011:pp 382-387) in an agile developing process and for which phases
- defined by RUP to lower the overall costs without bloating up a project
- budget.
+ within the product creation cycle, to lower the overall costs without bloating
+ up a project budget.
  (cf.
  E.
  Shihab, 2011:pp 1106-1109).
@@ -340,21 +340,48 @@ Answered the first question, I am going to take the insights of the found
 2.
  Which of the found best practices fits best to the relation between costs
  of introducing the test model and the value gained in cost reduction for
- assuring quality of software artifacts, such as requirements, specifications,
- designs and code (cf.
+ assuring quality of software artifacts, such as requirements, specifications
+ and implementation (cf.
  B.
  Nikolik, 2012:pp:1229-1238).
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+Pregnante Hypothese am schluss
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
-Relevanz
+Relevancy
 \end_layout
 
 \begin_layout Standard
 The main goal of this study is the literature research to determine the
  answers to the research questions.
- I am going to select two from all found best practice methods for each
- development cycle determined by the Rational Unified Process (RUP).
+ I am going to select two from all found best practice methods for the developme
+nt cycle and the product creation cylce .
  The selection of the 2 methods depends on how appropriate the method can
  be tailored to a small-scaled software engineering team.
 \end_layout
@@ -364,8 +391,8 @@ For each of the selected best practice methods, I am going to create a cost-bene
 fit analysis based on the available data found in the literature for the
  researched method or quality assurance task.
  To summarize all found detailed results, i create a catalog consisting
- of an overview of the software process development cycles with its selected
- rational Quality & Assurance Methods.
+ of an overview of the software process phases with its selected rational
+ Quality & Assurance Methods.
  Thereby, i will dispute conclusions found in the results to each method.
  The aim of the research should be, to be able to identify an optimal QA
  Model level and its distribution throughout the project life cycle.
@@ -377,9 +404,9 @@ fit analysis based on the available data found in the literature for the
 
 \begin_layout Standard
 The insights gained through the comparisons of the different QA Methods
- should help project managers reaching the defined quality standards without
- bloated project budgets, by selecting effective methods tailored to the
- size of his team.
+ should help project managers, CIO's and Development Teams reaching the
+ defined quality standards without bloated project budgets, by selecting
+ effective methods tailored to the needs and possibilities of the company.
  
 \end_layout
 
@@ -388,6 +415,10 @@ My expectations to the result of this study are as follows: I expect to
  find some cheap to implement QA Methods for some phases in a development
  process, which although have a big impact on the final product quality
  and project costs.
+\end_layout
+
+\begin_layout Section
+Paper Overview
 \end_layout
 
 \end_body

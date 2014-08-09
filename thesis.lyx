@@ -165,6 +165,7 @@ Giuliano Grassi
 \begin_layout Publishers
 \begin_inset Graphics
 	filename images/logo_kalaidos.jpg
+	scale 20
 
 \end_inset
 
@@ -261,6 +262,21 @@ Zurich, 31.
 
 \begin_layout Dedication
 \begin_inset Quotes eld
+\end_inset
+
+Jones Zitieren
+\begin_inset Quotes erd
+\end_inset
+
+The purpose of design theory is to support the achievement of goals
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Dedication
+\begin_inset Quotes erd
 \end_inset
 
 People forget how fast you did a job – but they remember how well you did

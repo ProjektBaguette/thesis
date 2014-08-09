@@ -87,8 +87,24 @@ Abstract
 \end_layout
 
 \begin_layout Standard
+TEXT
+\end_layout
+
+\begin_layout Section*
+Categories and Subject Description
+\end_layout
+
+\begin_layout Section*
+General Terms
+\end_layout
+
+\begin_layout Section*
+Keywords
+\end_layout
+
+\begin_layout Standard
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
