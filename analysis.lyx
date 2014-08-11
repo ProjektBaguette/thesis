@@ -351,8 +351,9 @@ The KBS approach is applicable to business analysts, project managers, quality
 \end_layout
 
 \begin_layout Standard
-A proposed model for quality assurance of the analysis phase focuses on
- the requirements document
+A proposed model for quality assurance at the analysis phase focuses on
+ the creation and maintaiment of the Software Requirements Specification
+ and the Interface Requirements Specification documents 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "ejaz2010quality"
@@ -361,24 +362,35 @@ key "ejaz2010quality"
 
 .
  The business will create an initial requirements document which is going
- to be audited by a analysis group which decides if the requirement suffices
- or if there needs to be some rework.
- The team needs to generate an audit checklist, select an appropriate team
- for the analysis group, continuous improvement of the verification and
- analysis process and be trained to focus on the essential characteristics
- a requirement specification needs to fullfill.
+ to be elaborated and audited by a analysis group.
+ The group decides if the requirement suffices or if there needs to be some
+ rework.
+ The team needs to generate an audit checklist, select and verify the capababili
+ties of an appropriate team for the analysis group, continuous improvement
+ of the verification and analysis process and be trained to focus on the
+ essential characteristics a requirement specification needs to fullfill.
  This decision of not proceeding to the design process, if the audit fails,
  emphasizes the importance of clear defined requirements.
- The tracebility of all requirements will be possible within all stages
- of development.
- Requirement changes are not discussed in this section, but with the implicit
- tracebility and the gain of experience of the audit group, the impact on
- the overall system will be feasible.
- 
-\end_layout
+ All requirements need to be traceable within all stages of development.
+ Requirement changes need to be added to the requirements specification.
+ With the implicit tracebility and the gain of experience of the audit group,
+ the impact on the overall system will be feasible.
+ The evaluation of 10 Fortune 500 Companys states a reduction of the development
+ effort of any software system from 47.22% if the analysis team puts in their
+ best efforts to do the job right.
+ While the cost of defect identification and removal is reduced to 47.78%
+ if they are identified in early pahases i.e.
+ during the analysis phase 
+\begin_inset CommandInset citation
+LatexCommand cite
+after "p.3"
+key "ejaz2010quality"
 
-\begin_layout Standard
-t
+\end_inset
+
+.
+ All reviewed companys do have a CMMI Level from 1-3 and the results are
+ averaged.
 \end_layout
 
 \begin_layout Standard
@@ -422,7 +434,7 @@ key "tomar2013customized"
 
 \begin_layout Standard
 If the adoption of the new divisons match into the existing process landscape
- differs from each company to company.
+ depends and differs from each company to company.
  The idea behind the divisons is the assignment of clear roles and responsibilit
 ies and the creation of a knowledge database for the future.
  It is not clear, if a specialist or a generalist can fullfill the requirements
