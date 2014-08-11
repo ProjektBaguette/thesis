@@ -616,15 +616,12 @@ I decided to link each of the most important product lifecycle stages, which
 \end_layout
 
 \begin_layout Enumerate
-Requirementes: What should your product do
+Requirementes&Specifications: What should your product do and ow do you
+ plan to do it
 \end_layout
 
 \begin_layout Enumerate
-Specifications: How do you plan to do it
-\end_layout
-
-\begin_layout Enumerate
-Implementation: What are you doing
+Implementation: What are you going to program and how are you sure its right
 \end_layout
 
 \begin_layout Standard

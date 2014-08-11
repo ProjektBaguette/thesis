@@ -323,7 +323,7 @@ Not depending on Development Frameworks
 \end_layout
 
 \begin_layout Itemize
-Cost efficiency
+Cost and time efficiency
 \end_layout
 
 \begin_layout Standard
@@ -644,12 +644,13 @@ Not depending on Development Frameworks
 \end_layout
 
 \begin_layout Itemize
-Cost efficiency
+Cost and time efficiency
 \end_layout
 
 \begin_layout Standard
-I am providing to each lifecycle stage an overview of best practices which
- fullfill the SQA requirements.
+I am providing to each lifecycle stage an overview of found best practices
+ which fullfill the SQA requirements.
+ 
 \end_layout
 
 \begin_layout Standard

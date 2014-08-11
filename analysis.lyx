@@ -293,15 +293,150 @@ Requirements
 \end_layout
 
 \begin_layout Standard
-- Knowledge-based system for software requirements analysis and management
+There is no lack of research on the causes of runaway projets, and unstable
+ or incomplete requirements and poor estimations are justifiably identified
+ as the two major ones, and it is also widely noted that requirement errors
+ are the most expensive to correct late in development or after release
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+after "p.1"
+key "Pustovalova2011"
+
+\end_inset
+
+.
+ Currently popular requirement tools such as Rational IBM, Microsofts Visual
+ Studio Team System White Paper or Borland products offer a solution, However,
+ effective use of these tools, including requirements quality assurance,
+ implies relatively high level of expertise 
+\begin_inset CommandInset citation
+LatexCommand cite
+after "p.2"
+key "Pustovalova2011"
+
+\end_inset
+
+.
+ A Knowledge-Based System as defined by 
+\begin_inset CommandInset citation
+LatexCommand cite
+after "p.3"
+key "Pustovalova2011"
+
+\end_inset
+
+ helps by filling-in the attributes for a requirement, setting relationships
+ between, suggests approaches for functional and non-functional requirements,
+ traces change history, provides visualization, tracks the fullfillment
+ degree, checks for inconsistencies in priorities, development order and
+ pre-requisiste requirements, offers conflict resolution strategies, tracks
+ estimations and real work effort and builds up statistics for analysis.
+ 
 \end_layout
 
 \begin_layout Standard
-- Visual Studio Team System White Paper
+The KBS approach is applicable to business analysts, project managers, quality
+ engineers and software developers.
+ The handling of such a programm can be teached and all people involved
+ are familiar with the domain.
+ The problem is to find an appropriate tool, which fullfills all represented
+ functionalities listed above and can be integrated in the company, or into
+ an existing project management tool.
+ The advantage of such a system lies in the visualisation of dependencies
+ and the influence on the project managers to have enough information to
+ make the decision for the next step towards the actual most appropriate
+ direction for the project.
+ 
 \end_layout
 
 \begin_layout Standard
-- Jira
+A proposed model for quality assurance of the analysis phase focuses on
+ the requirements document
+\begin_inset CommandInset citation
+LatexCommand cite
+key "ejaz2010quality"
+
+\end_inset
+
+.
+ The business will create an initial requirements document which is going
+ to be audited by a analysis group which decides if the requirement suffices
+ or if there needs to be some rework.
+ The team needs to generate an audit checklist, select an appropriate team
+ for the analysis group, continuous improvement of the verification and
+ analysis process and be trained to focus on the essential characteristics
+ a requirement specification needs to fullfill.
+ This decision of not proceeding to the design process, if the audit fails,
+ emphasizes the importance of clear defined requirements.
+ The tracebility of all requirements will be possible within all stages
+ of development.
+ Requirement changes are not discussed in this section, but with the implicit
+ tracebility and the gain of experience of the audit group, the impact on
+ the overall system will be feasible.
+ 
+\end_layout
+
+\begin_layout Standard
+t
+\end_layout
+
+\begin_layout Standard
+The creation of different divisions of responsibility as proposed in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "tomar2013customized"
+
+\end_inset
+
+ can be applied to the requirement engineering process with introduction
+ of a Estimation & Forecasting Division and the standard and rules enforcing
+ divison.
+ The estimation divison will try to predict by its experience cost, time,
+ quality, risk and budget, efforts and number of people for the project
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+after "p.291"
+key "tomar2013customized"
+
+\end_inset
+
+.
+ The rules enforcing divison is responsible for implementing quality assurance
+ planning policy and reuse strategies required within the organization
+\begin_inset CommandInset citation
+LatexCommand cite
+after "p.282"
+key "tomar2013customized"
+
+\end_inset
+
+.
+ This divisons wont have an effect in a company with just one single project,
+ but at the time a company losses track of all projects, its time to start
+ linking experiences and reuse work which has already been completed and
+ tested from old and finished projects.
+ 
+\end_layout
+
+\begin_layout Standard
+If the adoption of the new divisons match into the existing process landscape
+ differs from each company to company.
+ The idea behind the divisons is the assignment of clear roles and responsibilit
+ies and the creation of a knowledge database for the future.
+ It is not clear, if a specialist or a generalist can fullfill the requirements
+ to run such divisons properly, my opinion would refer to the generalists,
+ because a differentiated view on a wide field is required, which the generalist
+s have in common.
+ Small companys with little experience can adapt this solution, but the
+ return on investment is not going to be visible right away.
+ The time efficiency will increase after several projects, that means it
+ needs a lot of time to cover the costs of introducing such a process.
+ My recommendation would be to introduce such a process in mid staged companys,
+ the smaller the company and the less projects per year, the longer it takes
+ for the return on investment.
+ I could not find appropriate tools for managing the different divisions.
 \end_layout
 
 \begin_layout Itemize
@@ -320,12 +455,29 @@ Not depending on Development Frameworks
 Cost and time efficiency
 \end_layout
 
-\begin_layout Subsection
-Specifications
+\begin_layout Standard
+- (Wait on AQAM reply from Gu hongying or yang cheng)
 \end_layout
 
 \begin_layout Subsection
-Implementation
+Design and Implementation
+\end_layout
+
+\begin_layout Standard
+- Aqam Review examples
+\end_layout
+
+\begin_layout Standard
+- priorisaiton of testing: linkage cvs and jira
+\end_layout
+
+\begin_layout Standard
+- Divisions Manufacturing processing division and monitoring reviewing the
+ manufacturing divison
+\end_layout
+
+\begin_layout Standard
+- Mobile Testing assurance
 \end_layout
 
 \begin_layout Section
@@ -393,7 +545,7 @@ Cost/Time
 \begin_inset Text
 
 \begin_layout Plain Layout
-Model B
+KBS
 \end_layout
 
 \end_inset
@@ -402,7 +554,7 @@ Model B
 \begin_inset Text
 
 \begin_layout Plain Layout
-X
+Y
 \end_layout
 
 \end_inset
@@ -411,7 +563,7 @@ X
 \begin_inset Text
 
 \begin_layout Plain Layout
-X
+Y
 \end_layout
 
 \end_inset
@@ -420,7 +572,7 @@ X
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+N
 \end_layout
 
 \end_inset
@@ -429,7 +581,7 @@ X
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+Y
 \end_layout
 
 \end_inset
@@ -440,7 +592,7 @@ X
 \begin_inset Text
 
 \begin_layout Plain Layout
-Model A
+Divisions
 \end_layout
 
 \end_inset
@@ -449,7 +601,7 @@ Model A
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+N
 \end_layout
 
 \end_inset
@@ -458,7 +610,7 @@ Model A
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+Y
 \end_layout
 
 \end_inset
@@ -467,7 +619,7 @@ Model A
 \begin_inset Text
 
 \begin_layout Plain Layout
-X
+N
 \end_layout
 
 \end_inset
@@ -476,7 +628,7 @@ X
 \begin_inset Text
 
 \begin_layout Plain Layout
-X
+Y
 \end_layout
 
 \end_inset
@@ -487,7 +639,7 @@ X
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+AQAM
 \end_layout
 
 \end_inset
@@ -496,7 +648,7 @@ X
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+N
 \end_layout
 
 \end_inset
@@ -505,7 +657,7 @@ X
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+Y
 \end_layout
 
 \end_inset
@@ -514,7 +666,7 @@ X
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+Y
 \end_layout
 
 \end_inset
@@ -523,7 +675,211 @@ X
 \begin_inset Text
 
 \begin_layout Plain Layout
+Y
+\end_layout
 
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="5">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Implementation
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Tools
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Generalist
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Compatibility
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Cost/Time
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Test Priorisation
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Y
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Y/N
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Y
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Y
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Divisions
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+N
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Y
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+N
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Y
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AQAM
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+N
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Y
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Y
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Y
 \end_layout
 
 \end_inset
