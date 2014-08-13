@@ -603,16 +603,28 @@ The possibility to create just in time reports to prioritize tasks on a
 \end_layout
 
 \begin_layout Standard
-A Quality Assurance Model for Analysis Phase: Theory
+
+\emph on
+A Quality Assurance Model for Analysis Phase
+\emph default
+: Theory
 \end_layout
 
 \begin_layout Standard
-Knowledge-Based System for Software Requirements Analysis and Management:
+
+\emph on
+Knowledge-Based System for Software Requirements Analysis and Management
+\emph default
+: Theory
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+An Efficient and Effecctive New Generation Objective Quality Model for Mobile
+ Applications:
+\emph default
  Theory
-\end_layout
-
-\begin_layout Standard
-(EVTL noch RUP,MSF,XP Studie als füller 200-300 wörter)o
 \end_layout
 
 \begin_layout Section
