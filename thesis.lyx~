@@ -71,7 +71,7 @@ customHeadersFooters
 \graphics default
 \default_output_format default
 \output_sync 0
-\bibtex_command bibtex
+\bibtex_command default
 \index_command default
 \float_placement h
 \paperfontsize 12
@@ -93,7 +93,7 @@ customHeadersFooters
 \use_esint 1
 \use_mhchem 1
 \use_mathdots 1
-\cite_engine natbib_authoryear
+\cite_engine basic
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
@@ -155,7 +155,14 @@ Feasibility and Value of Software Quality Assurance Process-tailoring for
 \end_layout
 
 \begin_layout Author
-Giuliano Grassi 
+Giuliano Grassi
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Infosys20011"
+
+\end_inset
+
+ 
 \begin_inset Newline newline
 \end_inset
 
@@ -163,8 +170,10 @@ Giuliano Grassi
 \end_layout
 
 \begin_layout Publishers
+git 
 \begin_inset Graphics
 	filename images/logo_kalaidos.jpg
+	scale 30
 
 \end_inset
 

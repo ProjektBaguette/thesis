@@ -163,8 +163,10 @@ Giuliano Grassi
 \end_layout
 
 \begin_layout Publishers
+git 
 \begin_inset Graphics
 	filename images/logo_kalaidos.jpg
+	scale 30
 
 \end_inset
 
