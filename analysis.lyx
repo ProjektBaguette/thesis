@@ -566,9 +566,32 @@ A main characteristic of software engineering are changing requirements
 The approach of statistically analyse historical data of the code creation
  process needs a certain understanding and special knowledge for the tool
  configuration.
- The user which gets handed a report itself doesnt have to understand anything.
- Exept the developers, which need to be aware of the consequences of their
- inputs into the system, the model would work for generalized staff.
+ The user which gets handed a report itself doesnt have to understand much
+ about the process behind.
+ Except for the developers, which need to be aware of the consequences of
+ their inputs into the system, the model would work for generalized staff
+ by providing some minimal training.
+ The instant feedback for developers and Quality Assurance Engineers can
+ be seen as the one of the main advantages in this model 
+\begin_inset CommandInset citation
+LatexCommand cite
+after "p.1107"
+key "Shihab:2011:PPS:1985793.1986007"
+
+\end_inset
+
+ to avoid the loos of time by studying code fragments written some weeks
+ or months ago.
+ Practitioners are given a powerfull mechanism for prioritizing tasks, the
+ adaption of this into an existing framework depends more on the compatibility
+ of the used tools as of the framework itself.
+ The return on investment can not be assumed through the commonly correctness
+ of statistical elaborated data, but there are no detailed background informatio
+ns about it.
+ One the one hand, the efficiency raises by testing the high risk areas
+ in the system.
+ On the other hand, bugs can be everywhere and therefore i would recommend
+ to use this approach just in combination with others.
 \end_layout
 
 \begin_layout Itemize
