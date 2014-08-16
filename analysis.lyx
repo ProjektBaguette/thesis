@@ -451,30 +451,6 @@ s have in common.
  I could not find appropriate tools for managing the different divisions.
 \end_layout
 
-\begin_layout Standard
-- Mobile Applications into the model
-\end_layout
-
-\begin_layout Itemize
-Tools over processes
-\end_layout
-
-\begin_layout Itemize
-Applicable to Generalized Staff
-\end_layout
-
-\begin_layout Itemize
-Not depending on Development Frameworks
-\end_layout
-
-\begin_layout Itemize
-Cost and time efficiency
-\end_layout
-
-\begin_layout Standard
-- (Wait on AQAM reply from Gu hongying or yang cheng)
-\end_layout
-
 \begin_layout Subsection
 Design and Implementation
 \end_layout
@@ -1065,6 +1041,35 @@ Y/N
 
 \begin_layout Section
 Example and use of model
+\end_layout
+
+\begin_layout Standard
+In the following paragraph, i want to explain the adoption of the model
+ by analyzing a fantasy project named Five Points.
+ Five Points got launched from business with a scope document of half a
+ page, some designs for the screens, plenty of generalized developers but
+ without seniors and without timeline.
+ On project start, all developers created requirement docuements according
+ to the presented screens.
+ After one month, the first line of code got written.
+ Some features got developped, got changed over time or got banned, till
+ version 1 got successfully inspected and people continued working on further
+ features.
+ Some features where already developed by the company in another project,
+ but the business rejected the reuse of these components.
+ Within middle of development, the business introduced a new team of senior
+ developers and the first quality engineer in history.
+ After some time, the senior developers blamed the project for not fulfilling
+ basic guidelines and requested time for a needed turnover.
+ The market is full with sharks and the business needs results to finance
+ the project, so there is no time for turnovers.
+ Code Refactorings and Changes are needed anyway to reach the products quality
+ goals.
+ These changes results in solving one problem leads to antother.
+ But, functional tests are not available, which results that the quality
+ engineer tests the same functionality again and again, if someone detects
+ the defect.
+ The product needs to work as soon as possible.
 \end_layout
 
 \begin_layout Standard
