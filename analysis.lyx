@@ -594,33 +594,61 @@ ns about it.
  to use this approach just in combination with others.
 \end_layout
 
-\begin_layout Itemize
-Tools over processes citation
-\end_layout
+\begin_layout Standard
+The quality characteristics for mobile apps contain recommendations and
+ best practices for developpers, but we will put them out of scope and focus
+ on the quality assurance team.
+ The Quality Model for Mobile Applications describes what the QA team should
+ perform for quality assurance activities throughout the development of
+ a mobile App.
+\begin_inset CommandInset citation
+LatexCommand cite
+after "p.42"
+key "spriestersbach2004quality"
 
-\begin_layout Itemize
-Applicable to Generalized Staff
-\end_layout
+\end_inset
 
-\begin_layout Itemize
-Not depending on Development Frameworks
-\end_layout
+ An automated testing tool for the validation of functional requirements
+ for multiple platforms and devices is essential.
+ The functional testing doesnt influence the usability of the applicaiton,
+ therefore its urgently required to find out the areas where users get stuck
+ or confused about how to proceed further to acomplish a task.
+ Performanc in mobile applications is more crucial than any other applicaiton,
+ as the user expects fast and efficient processing on handheld devices.
+ The performance needs to be validated in all situation, normal as well
+ as critical situations reffering to the network speed.
+ As an important measure to keep customers happy it is needed to listen
+ to their feedback by providing a possibility of bug reporting and reading
+ forums or comments about the application.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+after "p. 42"
+key "spriestersbach2004quality"
 
-\begin_layout Itemize
-Cost and time efficiency
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-- priorisaiton of testing: linkage cvs and jira
-\end_layout
+The global players on the app market as Apple and Google provide tools for
+ quality tracking for mobile plattforms which are easy to learn and provide
+ lots of user data for statistical refinement.
+ The introduction of a functional requirement tool can be tricky, due to
+ the lack of ressources and the high costs of automated testing its recommended
+ to outsource the product testing and utilize a provider of effective QA
+ processes for competing in global markets
+\begin_inset CommandInset citation
+LatexCommand cite
+after "p.37"
+key "spriestersbach2004quality"
 
-\begin_layout Standard
-- Divisions Manufacturing processing division and monitoring reviewing the
- manufacturing divison
-\end_layout
+\end_inset
 
-\begin_layout Standard
-- Mobile Testing assurance
+.
+ The need for specialized staff is not required, most activities require
+ accuracy and passion for detail.
 \end_layout
 
 \begin_layout Section
@@ -986,7 +1014,7 @@ Y
 \begin_inset Text
 
 \begin_layout Plain Layout
-Divisons
+Mobile Quality
 \end_layout
 
 \end_inset
@@ -995,7 +1023,7 @@ Divisons
 \begin_inset Text
 
 \begin_layout Plain Layout
-Y/N
+Y
 \end_layout
 
 \end_inset
@@ -1004,7 +1032,7 @@ Y/N
 \begin_inset Text
 
 \begin_layout Plain Layout
-Y/N
+Y
 \end_layout
 
 \end_inset
@@ -1022,7 +1050,7 @@ Y
 \begin_inset Text
 
 \begin_layout Plain Layout
-Y
+Y/N
 \end_layout
 
 \end_inset

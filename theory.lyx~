@@ -605,7 +605,7 @@ The possibility to create just in time reports to prioritize tasks on a
 \begin_layout Standard
 
 \emph on
-A Quality Assurance Model for Analysis Phase
+- A Quality Assurance Model for Analysis Phase
 \emph default
 : Theory
 \end_layout
@@ -613,7 +613,7 @@ A Quality Assurance Model for Analysis Phase
 \begin_layout Standard
 
 \emph on
-Knowledge-Based System for Software Requirements Analysis and Management
+- Knowledge-Based System for Software Requirements Analysis and Management
 \emph default
 : Theory
 \end_layout
@@ -624,11 +624,89 @@ Knowledge-Based System for Software Requirements Analysis and Management
 An Efficient and Effecctive New Generation Objective Quality Model for Mobile
  Applications:
 \emph default
- Theory
+ Developing mobile application is similiar to desktop application but there
+ are certain factors that make mobile apps different.
+ The biggest difference is the way people use it.
+ Mobile apps are usually small in size and are designed in a way that they
+ use less power.
+ Users will delete or change the application if its not according to his
+ needs and perception of quality.
+\begin_inset CommandInset citation
+LatexCommand cite
+after "p.36"
+key "spriestersbach2004quality"
+
+\end_inset
+
+.
+ The Quality Model presented is divided into device independent quality
+ characteristics as
+\end_layout
+
+\begin_layout Enumerate
+Functionality (Suitability & Security)
+\end_layout
+
+\begin_layout Enumerate
+Usability
+\end_layout
+
+\begin_layout Enumerate
+Efficiency
+\end_layout
+
+\begin_layout Enumerate
+Maintainability (Adaptability & Extensibility)
+\end_layout
+
+\begin_layout Enumerate
+Data Integrity
+\end_layout
+
+\begin_layout Enumerate
+Portability
+\end_layout
+
+\begin_layout Standard
+The Role of the QA Team and the most important factor which shuld be considered
+ to put value to quality of mobile applications are as follows 
+\begin_inset CommandInset citation
+LatexCommand cite
+after "p.40"
+key "spriestersbach2004quality"
+
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Itemize
+Validation of End User Requirements
+\end_layout
+
+\begin_layout Itemize
+Monitor Mobile application production
+\end_layout
+
+\begin_layout Itemize
+Validate performance of Mobile applicaiton
+\end_layout
+
+\begin_layout Itemize
+Tracking quality of mobile application after deployment
+\end_layout
+
+\begin_layout Standard
+
 \end_layout
 
 \begin_layout Section
 Possible Models
+\end_layout
+
+\begin_layout Standard
+Explain why i decided for requirements&Specifications and implementation
+ with citations:
 \end_layout
 
 \begin_layout Standard
