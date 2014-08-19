@@ -14,7 +14,7 @@
  \renewcommand{\figureautorefname}{Fig.\negthinspace}
  \renewcommand{\tableautorefname}{Tab.\negthinspace}
 }
-
+\renewcommand{\headrulewidth}{0pt}
 % in case somebody want to have the label "Equation"
 %\renewcommand{\eqref}[1]{Equation~(\negthinspace\autoref{#1})}
 

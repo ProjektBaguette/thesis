@@ -560,7 +560,11 @@ status open
 
 
 \backslash
-pagestyle{fancy}
+pagestyle{fancy} 
+\backslash
+renewcommand{
+\backslash
+chapterpagestyle}{fancy}
 \end_layout
 
 \end_inset
