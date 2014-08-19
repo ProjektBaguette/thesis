@@ -79,7 +79,7 @@
 \begin_body
 
 \begin_layout Chapter*
-Acknowledgments
+Statement of authorship
 \end_layout
 
 \begin_layout Standard
@@ -109,7 +109,55 @@ adds table of contents entry
 \end_layout
 
 \begin_layout Standard
-Thank you, thank you, thank you
+Except where reference is made in the text of this paper, this paper contains
+ no material published elsewhere or extracted in whole or in part from a
+ dissertation presented by me for another degree or diploma.
+ No other person’s work has been used without due acknowledgement in the
+ main text of the paper.
+ This paper has not been submitted for the award of any other degree or
+ diploma in any other tertiary institution.
+\end_layout
+
+\begin_layout Standard
+All sentences or passages quoted in this paper from other people's work
+ have been specifically acknowledged by clear cross-referencing to author,
+ work and page(s).
+ Any illustrations which are not the work of the author of this dissertation
+ have been used with the explicit permission of the originator and are specifica
+lly acknowledged.
+ I understand that failure to do this amounts to plagiarism and will be
+ considered grounds for failure in this dissertation and the degree examination
+ as a whole.
+\end_layout
+
+\begin_layout Standard
+I declare that this document and the accompanying code has been composed
+ by myself, and describes my own work, unless otherwise acknowledged in
+ the text.
+ It has not been accepted in any previous application for a degree.
+ All verbatim extracts have been distinguished by quotation marks, and all
+ sources of information have been specifically acknowledged.
+\end_layout
+
+\begin_layout Standard
+I hereby certify that this paper has been composed by me and is based on
+ my own work, unless stated otherwise.
+ This work has not been submitted for any other degree.
+\end_layout
+
+\begin_layout Standard
+Signature:
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 1.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Giuliano Grassi
 \end_layout
 
 \end_body

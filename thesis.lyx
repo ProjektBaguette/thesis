@@ -169,6 +169,7 @@ MAS3-324-001
 \begin_layout Publishers
 \begin_inset Graphics
 	filename images/logo_kalaidos.jpg
+	lyxscale 30
 	scale 30
 
 \end_inset
@@ -197,14 +198,6 @@ Kalaidos Fachhochschule Schweiz
 \end_inset
 
 Departement Wirtschaft 
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset VSpace -3cm
-\end_inset
-
-
 \end_layout
 
 \begin_layout Lowertitleback
