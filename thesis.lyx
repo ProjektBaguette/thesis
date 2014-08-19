@@ -53,15 +53,23 @@
 \begin_modules
 customHeadersFooters
 \end_modules
+\begin_includeonly
+theory.lyx
+analysis.lyx
+conclusion.lyx
+abstract.lyx
+introduction.lyx
+originality.lyx
+\end_includeonly
 \maintain_unincluded_children false
 \language english
 \language_package default
 \inputencoding auto
 \fontencoding global
 \font_roman lmodern
-\font_sans lmss
+\font_sans helvet
 \font_typewriter lmtt
-\font_default_family default
+\font_default_family sfdefault
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
@@ -74,8 +82,8 @@ customHeadersFooters
 \bibtex_command default
 \index_command default
 \float_placement h
-\paperfontsize 12
-\spacing single
+\paperfontsize 11
+\spacing onehalf
 \use_hyperref true
 \pdf_bookmarks true
 \pdf_bookmarksnumbered true
@@ -88,7 +96,7 @@ customHeadersFooters
 \pdf_pdfusetitle true
 \pdf_quoted_options "pdfpagelayout=OneColumn, pdfnewwindow=true, pdfstartview=XYZ, plainpages=false"
 \papersize a4paper
-\use_geometry false
+\use_geometry true
 \use_amsmath 2
 \use_esint 1
 \use_mhchem 1
@@ -128,13 +136,17 @@ customHeadersFooters
 \shortcut idx
 \color #008000
 \end_index
+\leftmargin 3cm
+\topmargin 2.5cm
+\rightmargin 2.5cm
+\bottommargin 2.5cm
 \secnumdepth 3
 \tocdepth 2
 \paragraph_separation skip
-\defskip medskip
+\defskip 6pt
 \quotes_language english
 \papercolumns 1
-\papersides 2
+\papersides 1
 \paperpagestyle fancy
 \tracking_changes false
 \output_changes false
@@ -726,7 +738,7 @@ status open
 
 \end_inset
 
-Acknowledgments
+
 \begin_inset Note Note
 status collapsed
 
@@ -752,7 +764,7 @@ Acknowledgments
 status open
 
 \begin_layout Plain Layout
-Acknowledgments
+
 \end_layout
 
 \end_inset
