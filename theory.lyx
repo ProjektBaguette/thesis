@@ -209,7 +209,11 @@ pageref{LastPage}
 \end_layout
 
 \begin_layout Chapter
-Related Work
+Theory
+\end_layout
+
+\begin_layout Standard
+ÜBERSICHT vom kapitel
 \end_layout
 
 \begin_layout Section
@@ -221,28 +225,40 @@ The motivation to write the paper originated through own experiences working
  in small companies, without operating a dedicated Quality Assurance Strategy
  within the software or product development process.
  The root of the problems can be summarized into two categories.
- Lack of experience in the field and preassure to deliver on time for the
- market.
- The first problem addresses the roles and the structure of small companys
+ On the one hand, lack of experience in the field and on the other hand
+ preassure to deliver on time for the market.
+ 
+\end_layout
+
+\begin_layout Standard
+The first problem addresses the roles and the structure of small companys
  in general.
  A small companys strategy in staff selection is to employ generalists.
- (citation forbes) Of course there should be an optimal blend throughout
- specialists and generalists and it depends on each company differently,
- but from startups to mid-stage sized companys the generalists have generaly
- the superiority.
- The second problem faces the tactical advantage of small and therefore
- flexible and straightforward mentality of the companys.
- Due to a lack of processes and management obstacles, the implementation
- process itself is the single measurable process.
+ (citation forbes) Ideally there should be an optimal mixture throughout
+ specialists and generalists.
+ In addition, it depends on each company differently, but from startups
+ to mid-stage sized companys, the generalists have generaly the superiority.
+ 
+\end_layout
+
+\begin_layout Standard
+The second problem faces the tactical advantage of small and therefore flexible
+ and straightforward mentality of the companys.
+ Due to a lack of processes and management obstacles in project management,
+ the implementation process itself is the single measurable process.
  To achieve the cost leader advantage in the market, it requires to deliver
- a product within highspeed and the business goals need to be achieved,
- it doesnt matter how.
+ a product within highspeed and simultaneously to achieve the required business
+ goals.
  This short-term view on solving the problem will lead to abandoned hazardous
- sites generaly speaking, in terms of software engineering: The next team
- will garbage the previous work and restart with the vision of solving the
- problem, this time, adequat.
+ sites generaly speaking, in terms of software engineering.
+ The next team will garbage the previous work and restart with the vision
+ of solving the problem, this time, adequat.
  Therefore, i selected four requirements for the SQA Process of startups
- till mid-staged companys:
+ till mid-staged companys: (umschreiben, keine wertung)
+\end_layout
+
+\begin_layout Standard
+1) in fliesstext einfügen
 \end_layout
 
 \begin_layout Itemize
@@ -264,16 +280,25 @@ Cost and time efficiency
 \begin_layout Standard
 Whenever a highly specialized field needs to be treated through the Software
  Quality Assurance Process, buy the appropriate software solution which
- helps you safe time and effort instead of sovling it on your own.
+ helps you safe time and effort.
  It should be normal to train the staff on changes that will apear through
- new QA Processes, but at the end, the optimal solution will focus on the
- ease and understandability of that QA Processes for all involved.
- The process should not depend or influence on the habitual development
+ new QA Processes.
+ The optimal solution will focus on the ease and understandability of that
+ QA Processes for all involved.
+ However, the process should not depend or influence on the habitual development
  process.
+\end_layout
+
+\begin_layout Standard
+Zusammenfassung vom wichtigsten.
 \end_layout
 
 \begin_layout Section
 Related Work
+\end_layout
+
+\begin_layout Standard
+Anzahl methoden jetz stelle ich die wichtigsten vor, bezüglich thema
 \end_layout
 
 \begin_layout Standard
@@ -282,18 +307,8 @@ On exploring the different researches about best practives in SQA i came
 \end_layout
 
 \begin_layout Standard
-
-\emph on
-Tailoring Software Development:
-\emph default
- The ideas behind tailoring software development have been developped by
- 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Ferratt:2010:TSD:1796900.1796963"
-
-\end_inset
-
+The ideas behind tailoring software development have been developped by
+ Ferrat and Mai (2010).
  The tailoring of SQA Methods is split into three phases which has a defined
  aspect to solve 
 \end_layout
@@ -318,15 +333,8 @@ The goal of the study was to show the coherence and dependencies between
  standardisation and further alignments have a big impact on the overall
  investments in Quality.
  The degree of high or low standardization of the Quality Assurance Process
- depends on mainly four criterias 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Ferratt:2010:TSD:1796900.1796963"
-
-\end_inset
-
- which will be determined through the specifications in the product design
- phase.
+ depends on mainly four criterias which will be determined through the specifica
+tions in the product design phase.
  All involved counterparts prioritize the main Work Product Description
  and build upon these targets the structure for the project.
  Once the overall structure is composed, the combination of team experience,
@@ -339,6 +347,17 @@ key "Ferratt:2010:TSD:1796900.1796963"
  and tries to break down the complexity of correlations in a project into
  understandable pieces.
  
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Ferratt:2010:TSD:1796900.1796963"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The second...
 \end_layout
 
 \begin_layout Standard
@@ -350,7 +369,7 @@ This approach focuses on the differentiation between process and product
  oriented Quality Assurance Models.
  The product oriented aspect relies on reusing prooven and already tested
  components by capturing reusability metrics.
- The proces oriented aspect takes different phases of the product develoopment
+ The process oriented aspect takes different phases of the product develoopment
  cycle into concideration.
  The proposed Model creates in total 9 different Quality Assurance Stations
  which will be traversed sequencially:
@@ -398,18 +417,23 @@ s to reduce costs by improving the speed of development.
  The Model takes into account the companies own policies and guarantees
  the quality by integrating evalutation, improvement and monitoring of reusable
  assets which are used in Components based Engineering.
- 
+ (Quelle)
 \end_layout
 
 \begin_layout Standard
 
 \emph on
-A Customizable Agile Software Quality Assurance Model: AQAM provides detailed
+A Customizable Agile Software Quality Assurance Model: (AQAM) provides detailed
  guidelines and templates for real world implementations and customizations
  focusing on small and medium sized agile software development teams to
  analyze and improve their Quality Assurance capabilities.
- The model describes 20 different Key Process Areas.
+ The model describes 20 different Key Process Areas (KPA).
  Each KPA is described by 
+\end_layout
+
+\begin_layout Standard
+Fliesstext.
+ 
 \end_layout
 
 \begin_layout Itemize
@@ -443,25 +467,30 @@ Maturity Level
 \begin_layout Standard
 The first step is to define the actual maturity level of an analyzed KPA
  Process.
- The Project Manager and the development theam can propose an appropriate
- action plan, by cherry picking the right combination of recommended actions,
- processes and artifacts from the AQAM Model for a single KPA Process they
- decided to prioritize.
- The paper illustrates the workflow of AQAM by selecting and customizing
- the KPA Peer Review which consisted of 7 Guidelines to different review
- types, 7 Best Practices for scaffolding the requirements for the review,
- 3 Templates for documentation purposes, 4 Maturity levels with recomendated
- steps to achieve them and the customization section which is sparated in
- a required and a recommended content declaration.
- 
+ The Project Manager and the development team can propose an appropriate
+ action plan.
+ By cherry picking the right combination of recommended actions, processes
+ and artifacts from the AQAM Model for a single KPA Process.
+ The authors paper illustrates the workflow of AQAM by selecting and customizing
+ the KPA Peer Review.
+ The KPA consisted of seven Guidelines to different review types, seven
+ best practices for scaffolding the requirements for the review, three templates
+ for documentation purposes, four maturity levels with advised steps to
+ achieve and the customization section which is sparated in a required and
+ a recommended content declaration.
+ (quelle)
+\end_layout
+
+\begin_layout Standard
+the fourth...
 \end_layout
 
 \begin_layout Standard
 
 \emph on
-Pragmatic Prioritization of Software Quality Assurance Efforts: 
+Pragmatic Prioritization of Software Quality Assurance Efforts:
 \emph default
-Prior studies show that more than 90% of the software development cost is
+ The paper shows that more than 90% of the software development cost is
  spent on maintainance and evolution activities.
  Therefore, practitioners are in dire need of pragmatic approaches to effectivel
 y prioritize the SQA efforts 
@@ -471,12 +500,16 @@ key "Shihab:2011:PPS:1985793.1986007"
 
 \end_inset
 
- .
+.
  The work is split into efforts for code level quality, which assures the
- quality of already implemented code and on the other hand change level
- quality, which focuses on a high level of quality for new code changes
- or new features.
+ quality of already implemented code.
+ On the other hand change level quality, which focuses on a high level of
+ quality for new code changes or new features.
  Both parts follow the specific guidelines, which are defined as
+\end_layout
+
+\begin_layout Standard
+Säatze draus machen
 \end_layout
 
 \begin_layout Itemize
@@ -497,8 +530,8 @@ Evaluate Generality, evalutation of approach in different domains
 
 \begin_layout Standard
 The approach at the code level helps to prioritize Unit Test creation.
- The main idea is to connect all actions tracked in the CVS (git,svn) repositori
-es to the issue tracking tools.
+ The main idea is to connect all actions tracked in the Concurrent Versions
+ System (CVS) repositories to the issue tracking tools.
  By creating a coherent mapped environment between code changes (commits)
  and issue types like bug, change request, feature, improvement and so on,
  its possible to analyze the historical data and calculate just in time
@@ -535,6 +568,7 @@ The possibility to create just in time reports to prioritize tasks on a
  statistically based calculation decreases the project managers or quality
  assurance managers workload massively which leads them to focus more on
  different topics.
+ -> zwei sätze
 \end_layout
 
 \begin_layout Standard
@@ -578,6 +612,10 @@ key "spriestersbach2004quality"
  characteristics as
 \end_layout
 
+\begin_layout Standard
+in fliesstext..
+\end_layout
+
 \begin_layout Enumerate
 Functionality (Suitability & Security)
 \end_layout
@@ -603,7 +641,7 @@ Portability
 \end_layout
 
 \begin_layout Standard
-The Role of the QA Team and the most important factors which shuld be considered
+The Role of the QA team and the most important factors which shuld be considered
  to put value to quality of mobile applications are as follows 
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -612,7 +650,8 @@ key "spriestersbach2004quality"
 
 \end_inset
 
-:
+.
+ 1) 2) 3)
 \end_layout
 
 \begin_layout Itemize
@@ -632,21 +671,20 @@ Tracking quality of mobile application after deployment
 \end_layout
 
 \begin_layout Standard
-
-\end_layout
-
-\begin_layout Section
-Possible Models
+XXXXXXXXXXXXXXXXXXXXXXXXXX
 \end_layout
 
 \begin_layout Standard
-Explain why i decided for requirements&Specifications and implementation
- with citations:
+um gebiet abzugrenzen möchte ich es hier eingrenzen....
 \end_layout
 
 \begin_layout Standard
 I decided to link each of the most important product lifecycle stages, which
  are
+\end_layout
+
+\begin_layout Standard
+fliesstext 
 \end_layout
 
 \begin_layout Enumerate
@@ -660,6 +698,10 @@ Implementation: What are you going to program and how are you sure its right
 
 \begin_layout Standard
 to the evaluated requirements of the SQA process, which are
+\end_layout
+
+\begin_layout Standard
+fliesstext
 \end_layout
 
 \begin_layout Itemize
@@ -681,6 +723,15 @@ Cost and time efficiency
 \begin_layout Standard
 I am providing to each lifecycle stage an overview of found best practices
  which fullfill the SQA requirements.
+ 
+\end_layout
+
+\begin_layout Standard
+daraus folgt meine hypothese
+\end_layout
+
+\begin_layout Standard
+Hypothese hier...
  
 \end_layout
 

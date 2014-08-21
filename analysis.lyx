@@ -209,11 +209,15 @@ pageref{LastPage}
 \end_layout
 
 \begin_layout Chapter
-Highlight of the research hypothesis
+Analysis
 \end_layout
 
 \begin_layout Section
 Common Practives
+\end_layout
+
+\begin_layout Standard
+betreffend oben, konzentration auf requirements und implementation.
 \end_layout
 
 \begin_layout Standard
@@ -563,7 +567,15 @@ key "spriestersbach2004quality"
 \end_layout
 
 \begin_layout Section
-Evaluation for the target
+Evaluation for the target/zusammenfassung
+\end_layout
+
+\begin_layout Standard
+Einleitung zu 
+\end_layout
+
+\begin_layout Standard
+Table 1: what isit
 \end_layout
 
 \begin_layout Standard
@@ -771,6 +783,10 @@ Y
 \end_layout
 
 \begin_layout Standard
+Table 2: what isit
+\end_layout
+
+\begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="4" columns="5">
 <features tabularvalignment="middle">
@@ -972,6 +988,10 @@ Y/N
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+Tabellenverzeichniss reinmachen
 \end_layout
 
 \begin_layout Section
