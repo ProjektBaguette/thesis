@@ -571,7 +571,21 @@ Evaluation for the target/zusammenfassung
 \end_layout
 
 \begin_layout Standard
-Einleitung zu 
+The next section summarize the analyzed approaches and lists them into a
+ matrix for a better overview.
+ Each approach has the four requirements Tools, Generalists, Compatibility
+ and Cost/Time which can be measured.
+\end_layout
+
+\begin_layout Standard
+First, i summarize the requirements phase wich contains the KBS, Divisions
+ and Analysis Phase model.
+ All best practices have a positive impact on the time to market and therefore
+ on the overall costs of the project.
+ The practices do not need specialised and expensive staff for the operation,
+ but its needed to train the staff accordingly to the needs of the company.
+ The majority of practices can be abstracted and managed by tools but the
+ adaption into the existing development process is the main problem to solve.
 \end_layout
 
 \begin_layout Standard
@@ -780,6 +794,19 @@ Y
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+Secondly, i summarize the implementation phase which consists of the Review,
+ Test Priorisation and Mobile Quality model.
+ Most practices have an impact on the cost side on long term.
+ The initial investments will be rewarded by saving time for rework and
+ bugfixing.
+ Except of the reviewing process, there is no need for specialised staff
+ to fullfill the recommended aproaches.
+ The abstraction of the problem domain by selecting the appropriate tools
+ can be seen as the major problem to solve, if the development framework
+ accepts such an approach.
 \end_layout
 
 \begin_layout Standard
@@ -1004,12 +1031,12 @@ In the following paragraph, i want to explain the adoption of the model
  Five Points got launched from business with a scope document of half a
  page, some designs for the screens, plenty of generalized developers but
  without seniors and without timeline.
- On project start, all developers created requirement docuements according
+ On project start, all devel- opers created requirement docuements according
  to the presented screens.
  After one month, the first line of code got written.
  Some features got developped, got changed over time or got banned, till
- version 1 got successfully inspected and people continued working on further
- features.
+ version 1 got successfully inspected and peo- ple continued working on
+ further features.
  Some features where already developed by the company in another project,
  but the business rejected the reuse of these components.
  Within middle of development, the business introduced a new team of senior
@@ -1020,13 +1047,71 @@ In the following paragraph, i want to explain the adoption of the model
  the project, so there is no time for turnovers.
  Code Refactorings and Changes are needed anyway to reach the products quality
  goals.
- These changes results in solving one problem leads to antother.
- But, functional tests are not available, which results that the quality
- engineer tests the same functionality again and again, if someone detects
- the defect.
- The product needs to work as soon as possible.
+ These changes results in solving one problem which leads to antother.
+ But, functional tests are not available, which results into multiple testing
+ of the same functionality by the QA, if someone detects the defect.
+ At a certain point, no one wants to launch version 1 due to lack of performance
+ and lots of quality issues.
+ The project has some points for improvement which we will illuminate, as
+ there are
 \end_layout
 
+\begin_layout Standard
+The project has some points for improvement which we will illuminate, as
+ there are 
+\end_layout
+
+\begin_layout Enumerate
+Starting a project without QA measures in the requirements and specifications
+ analysis
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The business should track all business relevant goals into an KBS tool first,
+ developers are not trained for writing requirements and it is not their
+ job to analyse business needs
+\end_layout
+
+\begin_layout Enumerate
+The elaborated Use Cases have never been audited, therefore lots of changes
+ and an increase of costs for rework results
+\end_layout
+
+\begin_layout Enumerate
+Reuse of well established components and the satisfaction of best prac-
+ tices have not been enforced, usability and time to market will suffer
+ from this decision 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Developing and designing the application without QA measures
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Review of a whole release/component without knowing how and what to measure
+ is nonesense, nobody carrys the responsibility and a version wich does
+ not fullfill quality goals wont be released anyway.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Lack of automated tests shows that nobody can certainly determine the functional
+ity of all components or tell where it all fails.
+ Error detection will cost most of the time to fix the failure.
+ 
+\end_layout
+
+\begin_layout Enumerate
+The QA is handling reactive and not proactive without having reports about
+ what got changed and what are the risks of potential defects.
+ Repeated workloads without potential results of being certain about a func-
+ tioning component will result.
+\end_layout
+
+\end_deeper
 \begin_layout Standard
 \begin_inset Branch NoChildDocument
 status collapsed
