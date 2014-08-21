@@ -212,33 +212,64 @@ pageref{LastPage}
 Introduction
 \end_layout
 
-\begin_layout Section
-Overview
-\end_layout
-
 \begin_layout Standard
-The models of the Quality Assurance (QA) have been created for developing
- high quality software.
+The models of the Software Quality Assurance (SQA) have been created for
+ developing high quality software.
  However, these models target big-scale software engineering enterprises
  with sophisticated management, specialized resources and an almost infinite
  project budget.
  The implementation of all these models with agile teams, build up with
  allrounder resources, is for small-scaled enterprise economically hard
- or even impossible to bear (cf.
- G.
- Hongying.
- Y.
- Cheng, 2011: pp:382-387).
+ or even impossible to bear 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "6093459"
+
+\end_inset
+
+.
  Nevertheless, a software product is always bound to certain quality requirement
 s, have strict deadlines for certain artifacts and a cap on expenses which
  needs to be complied.
- To reach this goals its indispensable to introduce reasonable QA models
- for Small-Scale Software Engineering Enterprises for their software development
+ To reach this goals its indispensable to introduce reasonable SQA models
+ for small-scale software engineering enterprises for their software development
  cycles.
 \end_layout
 
-\begin_layout Section
-Research Hypothesys
+\begin_layout Standard
+The main goal of this study is the literature research to determine the
+ answers to the research questions.
+ I am going to select three from all found best practice methods for each
+ development cycle.
+ The selection of the three methods depends on how appropriate the method
+ can be tailored to a small-scaled software company.
+\end_layout
+
+\begin_layout Standard
+For each of the selected best practice methods, I am going to create a cost-bene
+fit analysis based on the available data found in the literature for the
+ researched method or quality assurance task.
+ To summarize all found results, i create a catalog consisting of an overview
+ of the software process phases with its selected rational Quality & Assurance
+ Methods.
+ Thereby, i will dispute conclusions found in the results to each method.
+ The aim of the research should be, to be able to identify an optimal SQA
+ model level and its distribution throughout the project life cycle 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Abdel-Hamid:1988:ESQ:59189.59192"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+The insights gained through the comparisons of the different SQA Methods
+ should help project managers, CIO's and development teams reaching the
+ defined quality standards without bloated project budgets, by selecting
+ effective methods tailored to the needs and possibilities of the company.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -253,17 +284,16 @@ The main question to answer will be:
 
 \begin_layout Standard
 1.
- Which pragmatic efforts and best practice models in QA have to get prioritize
- by small-scaled software engineering enterprises (cf.
- G.
- Hongying.
- Y.
- Cheng, 2011:pp 382-387) in an agile developing process and for which phases
- within the product creation cycle, to lower the overall costs without bloating
- up a project budget.
- (cf.
- E.
- Shihab, 2011:pp 1106-1109).
+ Which pragmatic efforts and best practice models in SQA have to get prioritize
+ by small-scaled software engineering enterprises 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "6093459"
+
+\end_inset
+
+ in the developing process for two selected phases within the product creation
+ cycle.
 \end_layout
 
 \begin_layout Standard
@@ -276,88 +306,21 @@ Answered the first question, I am going to take the insights of the found
  Which of the found best practices fits best to the relation between costs
  of introducing the test model and the value gained in cost reduction for
  assuring quality of software artifacts, such as requirements, specifications
- and implementation (cf.
- B.
- Nikolik, 2012:pp:1229-1238).
-\begin_inset Newline newline
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Box Boxed
-position "t"
-hor_pos "c"
-has_inner_box 1
-inner_pos "t"
-use_parbox 0
-use_makebox 0
-width "100col%"
-special "none"
-height "1in"
-height_special "totalheight"
-status open
-
-\begin_layout Plain Layout
-SQA Processes tailored and prioritized to the requirements, specifications
- and implementation stages will increase product quality by focusing on
- tools, generalist labor, cost and time efficiency and compatibility to
- the actual engineering process for small software engineering enterprises.
- 
-\end_layout
+ and implementation
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nikolik2012"
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Section
-Relevancy
+.
 \end_layout
 
 \begin_layout Standard
-The main goal of this study is the literature research to determine the
- answers to the research questions.
- I am going to select two from all found best practice methods for the developme
-nt cycle and the product creation cylce .
- The selection of the 2 methods depends on how appropriate the method can
- be tailored to a small-scaled software engineering team.
-\end_layout
-
-\begin_layout Standard
-For each of the selected best practice methods, I am going to create a cost-bene
-fit analysis based on the available data found in the literature for the
- researched method or quality assurance task.
- To summarize all found detailed results, i create a catalog consisting
- of an overview of the software process phases with its selected rational
- Quality & Assurance Methods.
- Thereby, i will dispute conclusions found in the results to each method.
- The aim of the research should be, to be able to identify an optimal QA
- Model level and its distribution throughout the project life cycle.
- (cf.
- T.
- Abdel-Hamid, 1988:pp 394-411).
- 
-\end_layout
-
-\begin_layout Standard
-The insights gained through the comparisons of the different QA Methods
- should help project managers, CIO's and Development Teams reaching the
- defined quality standards without bloated project budgets, by selecting
- effective methods tailored to the needs and possibilities of the company.
- 
-\end_layout
-
-\begin_layout Standard
-My expectations to the result of this study are as follows: I expect to
- find some cheap to implement QA Methods for some phases in a development
- process, which although have a big impact on the final product quality
- and project costs.
-\end_layout
-
-\begin_layout Section
-Paper Overview
+My expectations to the result of this study are as follows.
+ I expect to find some (cheap) to implement SQA Methods for some phases
+ in a development process, which although have a big impact on the final
+ product quality and project costs.
 \end_layout
 
 \end_body

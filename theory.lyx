@@ -731,8 +731,34 @@ daraus folgt meine hypothese
 \end_layout
 
 \begin_layout Standard
-Hypothese hier...
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+SQA Processes tailored and prioritized to the requirements, specifications
+ and implementation stages will increase product quality by focusing on
+ tools, generalist labor, cost and time efficiency and compatibility to
+ the actual engineering process for small software engineering enterprises.
  
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
