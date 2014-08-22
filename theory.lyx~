@@ -252,36 +252,32 @@ The second problem faces the tactical advantage of small and therefore flexible
  goals.
  This short-term view on solving the problem will lead to abandoned hazardous
  sites generaly speaking, in terms of software engineering.
- The next team will garbage the previous work and restart with the vision
- of solving the problem, this time, adequat.
+ The next team will garbage the previous work for an upcoming similiar project
+ and restart with the vision of solving the problem, this time, adequat.
  
 \end_layout
 
 \begin_layout Standard
-Therefore, i selected four requirements for the SQA Process for startups
- till mid-staged companys.
+On the base of the two problems, i selected four requirements for the SQA
+ Process for startups till mid-staged companys.
  1) Whenever a highly specialized field needs to be treated through the
- Software Quality Assurance Process, buy the appropriate software solution
+ Software Quality Assurance process, buy the appropriate software solution,
  which helps you safe time and effort.
- 2) It should be normal to train the staff on changes that will apear through
- new SQA Processes.
- 3) The optimal solution will focus on the ease and understandability of
- that SQA Processes for all involved.
+ 2) The the staff will not have a specialised education on the new SQA processe.
+ The method should require to be manageable for regular engineers 3) The
+ optimal solution will focus on the ease and understandability of that SQA
+ processes for all involved.
  However, the process should not depend or influence on the habitual development
  process.
  4) The resulted savings in time and money need to be evident and easily
  comprehensible.
 \end_layout
 
-\begin_layout Section
-Related Work
-\end_layout
-
 \begin_layout Standard
-On exploring the different researches about best practives in SQA i came
+On exploring the different researches about best practives in SQA, i came
  across several numbers of authors, which have worked in different areas.
- In the following part, i am going to present the X most suitable researches
- found about state of the art SQA.
+ In the following part, i am going to present the X most suitable papers
+ found about state of the art SQA researches.
 \end_layout
 
 \begin_layout Standard
@@ -384,10 +380,6 @@ key "6093459"
 \end_layout
 
 \begin_layout Standard
-the fourth...
-\end_layout
-
-\begin_layout Standard
 The fourth paper created by Shihab (2011) illuminates the pragmatic prioritizati
 on of software quality assurance efforts.
 
@@ -448,9 +440,10 @@ key "Shihab:2011:PPS:1985793.1986007"
 \begin_layout Standard
 The possibility to create just in time reports to prioritize tasks on a
  statistically based calculation decreases the project managers or quality
- assurance managers workload massively which leads them to focus more on
- different topics.
- -> zwei sätze
+ assurance managers workload.
+ One benefit leads them to focus more on other topics then searching the
+ actual most reasonable task.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -472,8 +465,14 @@ The possibility to create just in time reports to prioritize tasks on a
 \begin_layout Standard
 
 \emph on
-An Efficient and Effecctive New Generation Objective Quality Model for Mobile
- Applications:
+The fiftth research written by Zahra, Khalid and Javed (2013) concentrates
+ on 
+\emph default
+an efficient and effecctive new generation objective quality model for mobile
+ applications
+\emph on
+ and its tied to the the device limitations.
+
 \emph default
  Developing mobile application is similiar to desktop application but there
  are certain factors that make mobile apps different.
@@ -490,41 +489,21 @@ key "spriestersbach2004quality"
 \end_inset
 
 .
- The Quality Model presented is divided into device independent quality
- characteristics as
+ 
 \end_layout
 
 \begin_layout Standard
-in fliesstext..
-\end_layout
-
-\begin_layout Enumerate
-Functionality (Suitability & Security)
-\end_layout
-
-\begin_layout Enumerate
-Usability
-\end_layout
-
-\begin_layout Enumerate
-Efficiency
-\end_layout
-
-\begin_layout Enumerate
-Maintainability (Adaptability & Extensibility)
-\end_layout
-
-\begin_layout Enumerate
-Data Integrity
-\end_layout
-
-\begin_layout Enumerate
-Portability
-\end_layout
-
-\begin_layout Standard
-The Role of the QA team and the most important factors which shuld be considered
- to put value to quality of mobile applications are as follows 
+The presented quality model is separated into two fields.
+ One field divides mobile device independent quality characteristics as
+ 1) Functionality (Suitability & Security) 2) Usability 3) Efficiency 4)
+ Maintainability (Adaptability & Extensibility) 5) Data Integrity 6) Portability.
+ The next field illuminates the role of the SQA team.
+ The important factors which shuld be considered, to put value to the quality
+ of mobile applications are as follows .
+ 1) Validation of End User Requirements 2) Monitor Mobile application production
+ 3) Validate performance of Mobile applicaiton 4) Tracking quality of mobile
+ application after deployment.
+ 
 \begin_inset CommandInset citation
 LatexCommand cite
 after "p.40"
@@ -532,24 +511,7 @@ key "spriestersbach2004quality"
 
 \end_inset
 
-.
- 1) 2) 3)
-\end_layout
 
-\begin_layout Itemize
-Validation of End User Requirements
-\end_layout
-
-\begin_layout Itemize
-Monitor Mobile application production
-\end_layout
-
-\begin_layout Itemize
-Validate performance of Mobile applicaiton
-\end_layout
-
-\begin_layout Itemize
-Tracking quality of mobile application after deployment
 \end_layout
 
 \begin_layout Standard
@@ -557,59 +519,34 @@ XXXXXXXXXXXXXXXXXXXXXXXXXX
 \end_layout
 
 \begin_layout Standard
-um gebiet abzugrenzen möchte ich es hier eingrenzen....
-\end_layout
-
-\begin_layout Standard
-I decided to link each of the most important product lifecycle stages, which
- are
-\end_layout
-
-\begin_layout Standard
-fliesstext 
-\end_layout
-
-\begin_layout Enumerate
-Requirementes&Specifications: What should your product do and ow do you
- plan to do it
-\end_layout
-
-\begin_layout Enumerate
-Implementation: What are you going to program and how are you sure its right
-\end_layout
-
-\begin_layout Standard
-to the evaluated requirements of the SQA process, which are
-\end_layout
-
-\begin_layout Standard
-fliesstext
-\end_layout
-
-\begin_layout Itemize
-Tools over processes
-\end_layout
-
-\begin_layout Itemize
-Applicable to Generalized Staff
-\end_layout
-
-\begin_layout Itemize
-Not depending on Development Frameworks
-\end_layout
-
-\begin_layout Itemize
-Cost and time efficiency
-\end_layout
-
-\begin_layout Standard
-I am providing to each lifecycle stage an overview of found best practices
- which fullfill the SQA requirements.
+The previously presented researches focus on different stages in the product
+ creation cycle.
+ To keep this paper in an appropriate scale, i need to isolate all different
+ cycles into two umbrella cycles.
+ I choose to draw the line between the one process which focuses on the
+ idea creation and the other process which focuses on the idea implementation.
+ The requirements which need to be accomplished in the two defined cycles
+ for the SQA methods have been discussed at the beginning of this chapter.
  
 \end_layout
 
 \begin_layout Standard
-daraus folgt meine hypothese
+As a summary, I decided to link each of the most important product lifecycle
+ stages, which are 1) Requirementes & Specifications: What should your product
+ do and ow do you plan to do it? 2) Implementation & Design: What are you
+ going to program and how are you sure its right? to the evaluated requirements
+ of the SQA process, which are 1) Tools over processes 2) Applicable to
+ Generalized Staff 3) Not depending on development frameworks 4) Cost and
+ time efficiency.
+ By combining the gained information and matching it to the defined model,
+ i am going to provide to each lifecycle stage an overview of found best
+ practices and fullfillment to the requirements.
+ 
+\end_layout
+
+\begin_layout Standard
+On behalf of the previous introduced theory im going to present my hypothesis
+ which is stated below.
 \end_layout
 
 \begin_layout Standard
@@ -627,10 +564,10 @@ height_special "totalheight"
 status open
 
 \begin_layout Plain Layout
-SQA Processes tailored and prioritized to the requirements, specifications
- and implementation stages will increase product quality by focusing on
- tools, generalist labor, cost and time efficiency and compatibility to
- the actual engineering process for small software engineering enterprises.
+SQA Processes tailored and prioritized to the requirements & specifications
+ and to the implementation & design stages will increase product quality
+ by focusing on tools, generalist labor, cost and time efficiency and compatibil
+ity to the actual engineering process for small software engineering enterprises.
  
 \end_layout
 

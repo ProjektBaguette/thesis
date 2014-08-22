@@ -247,14 +247,14 @@ The main goal of this study is the literature research to determine the
 
 \begin_layout Standard
 For each of the selected best practice methods, I am going to create a cost-bene
-fit analysis based on the available data found in the literature for the
- researched method or quality assurance task.
- To summarize all found results, i create a catalog consisting of an overview
- of the software process phases with its selected rational Quality & Assurance
- Methods.
+fit analysis based on the available information found in the literature
+ for the researched method or quality assurance task.
+ To summarize all found results, i create a catalog consisting of an overview.
+ The overview consits of the software process phases with its selected rational
+ quality & assurance methods.
  Thereby, i will dispute conclusions found in the results to each method.
- The aim of the research should be, to be able to identify an optimal SQA
- model level and its distribution throughout the project life cycle 
+ The aim of the research should be, to be able to identify optimal SQA models
+ and in relation to it the project life cycle 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Abdel-Hamid:1988:ESQ:59189.59192"
@@ -267,8 +267,10 @@ key "Abdel-Hamid:1988:ESQ:59189.59192"
 \begin_layout Standard
 The insights gained through the comparisons of the different SQA Methods
  should help project managers, CIO's and development teams reaching the
- defined quality standards without bloated project budgets, by selecting
- effective methods tailored to the needs and possibilities of the company.
+ defined quality standards.
+ Another positive aspect should be to reach the stadards without bloated
+ project budgets, by selecting effective methods tailored to the needs and
+ possibilities of the company.
  
 \end_layout
 
@@ -283,7 +285,7 @@ The main question to answer will be:
 \end_layout
 
 \begin_layout Enumerate
-Which pragmatic efforts and best practice models in SQA have to get prioritize
+Which pragmatic efforts and best practice models in SQA have to get prioritized
  by small-scaled software engineering enterprises 
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -316,9 +318,11 @@ key "Nikolik2012"
 
 \begin_layout Standard
 My expectations to the result of this study are as follows.
- I expect to find some cheap to implement SQA Methods for some phases in
- a development process, which although have a big impact on the final product
- quality and project costs.
+ I expect to find some reasonable and affordable SQA Methods for the phases
+ in a development process.
+ The Methods wil although have a big impact on the final product quality
+ and a small impact on the overall project costs.
+ 
 \end_layout
 
 \end_body
