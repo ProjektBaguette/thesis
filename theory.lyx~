@@ -283,7 +283,7 @@ On exploring the different researches about best practives in SQA, i came
 \begin_layout Standard
 The first research has been developped by Ferrat and Mai (2010) and concentrates
  on the ideas behind tailoring software development .
- The tailoring of SQA Methods is split into three phases which has a defined
+ The tailoring of SQA methods is split into three phases which has several
  aspect to solve as there are 1) Product Design >> Process Selection 2)
  Project Design >> Process Modification 3) Feedback Design >> Process Monitoring.
  The goal of the study was to show the coherence and dependencies between
@@ -412,10 +412,10 @@ key "Shihab:2011:PPS:1985793.1986007"
 The approach at the code level helps to prioritize Unit Test creation.
  The main idea is to connect all actions tracked in the Concurrent Versions
  System (CVS) repositories to the issue tracking tools.
- By creating a coherent mapped environment between code changes (commits)
- and issue types like bug, change request, feature, improvement and so on,
- its possible to analyze the historical data and calculate just in time
- heuristics for forecasting purposes in a report form.
+ By creating a coherent mapped environment between code changes and issue
+ types like bug, change request, feature, improvement and so on, its possible
+ to analyze the historical data and calculate just in time heuristics for
+ forecasting purposes in a report form.
  The most usefull heuristics are Largest Fixed, Largest Modified, Most Frequent
  Fixed, Most Recently Modified and show the highest risk of having a bug
  in the future.
@@ -515,12 +515,8 @@ key "spriestersbach2004quality"
 \end_layout
 
 \begin_layout Standard
-XXXXXXXXXXXXXXXXXXXXXXXXXX
-\end_layout
-
-\begin_layout Standard
-The previously presented researches focus on different stages in the product
- creation cycle.
+The previously presented research papers focus all on different stages in
+ the product creation cycle.
  To keep this paper in an appropriate scale, i need to isolate all different
  cycles into two umbrella cycles.
  I choose to draw the line between the one process which focuses on the
@@ -567,7 +563,8 @@ status open
 SQA Processes tailored and prioritized to the requirements & specifications
  and to the implementation & design stages will increase product quality
  by focusing on tools, generalist labor, cost and time efficiency and compatibil
-ity to the actual engineering process for small software engineering enterprises.
+ity to the actual engineering process for small-scaled software engineering
+ enterprises.
  
 \end_layout
 
