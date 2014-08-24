@@ -318,8 +318,8 @@ To escort the requirements dokument creation process with an appropriate
  The need for expertise is always there in creating and reviewing requirements.
  The most development frameworks which are in charge, have such a review
  and document creation process.
- As stated above, a cost reduction of nearly 50% should be possible on any
- software system.
+ As stated above, a cost reduction of 47.78% should be possible on any software
+ system.
  In my opinion, such a high percentage will not be possible to reach by
  small-scaled companys.
  I think, it is attributable to the maturity level (CMMI) of the researched
@@ -579,7 +579,7 @@ This section discussed three approaches for the Implementation & Design
 \end_layout
 
 \begin_layout Section
-Evaluation for the target/zusammenfassung
+Summary
 \end_layout
 
 \begin_layout Standard
@@ -1133,10 +1133,6 @@ The QA is handling reactive and not proactive without having reports about
 \end_layout
 
 \end_deeper
-\begin_layout Standard
-
-\end_layout
-
 \begin_layout Standard
 \begin_inset Branch NoChildDocument
 status collapsed

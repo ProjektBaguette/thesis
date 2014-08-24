@@ -235,8 +235,15 @@ The motivation to write the paper originated through own experiences working
 The first problem addresses the roles and the structure of small companys
  in general.
  A small companys strategy in staff selection is to employ generalists.
- (citation forbes) Ideally there should be an optimal mixture throughout
- specialists and generalists.
+ Ideally there should be an optimal mixture throughout specialists and generalis
+ts.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "RaismanAliDouglasGabbyWieberJordynRoss"
+
+\end_inset
+
  In addition, it depends on each company differently, but from startups
  to mid-stage sized companys, the generalists have generaly the superiority.
  

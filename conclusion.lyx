@@ -212,22 +212,73 @@ pageref{LastPage}
 Conclusion
 \end_layout
 
-\begin_layout Section
-Pro&Cons
+\begin_layout Standard
+The central purpouse of this research is to find appropriate SQA methods
+ for two development cycles, namely Requirements & Specification and Implementat
+ion & Design, which satisfy the requirements of small scaled software engineerin
+g companies.
+ The defined requirements are as follows 1) Tools over processes 2) Applicable
+ to Generalized Staff 3) Not depending on development frameworks 4) Cost
+ and time efficiency.
+ 
 \end_layout
 
 \begin_layout Standard
-bla bla bla bla bla bla bla bla bla bla bla bla bla PPSbla bla bla bla bla
- bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
- bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
- bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
- bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
- bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
- bla bla, see
+This literature research examined in chapter 2) Theory several papers dedicated
+ to different topics of the SQA optimisation.
+ To compare different SQA models and find six models which fit to the defined
+ development cycles and requirements was the major effort.
+ The subsequent task of evaluating each of the six models against the defined
+ requirement is another elimentary work, found in chapter 3) Analysis.
+ A summary over all found models in relation to the requirements represented
+ in a matrix provides a quick overview.
+ At the end of the chapter, a fantasy project gets analysed and the selected
+ SQA models were taken as a base for consulting.
+ 
 \end_layout
 
-\begin_layout Section
-Recommendation
+\begin_layout Standard
+One of the main findings show that in the Requirements & Specification Phase
+ a Knowledge-Based System to manage the requirements provides the needed
+ information quality for decision making.
+ To reach qualitatively high requirements, its essential to create an effectivel
+ review and acceptance process for the requirement creation.
+ An other important aspect is the allocation of responsibilities to different
+ divisions to forecast ressources and determine possible synergy potential.
+ The discovered methods for the Implementation & Design phase ensure that
+ the elaborated requirements get transformed into the requested features
+ or services.
+ On of the findings focuses on the code review process to eliminate the
+ source of errors or architectual problems in an early phase.
+ The second finding suggests a model to support the testing engineers in
+ the prioritization of testing activities by processing project data into
+ significant heuristics.
+ The third proposal is directed towards the important aspects to focus on
+ in mobile application development as usability evaluations or user feedback.
+\end_layout
+
+\begin_layout Standard
+During the creation of this paper, a main problem about finding the appropriate
+ tools for one model or a combination of different models exposed.
+ A possible area for future research could be the tool evaluation or definition
+ for the proposed models.
+ The research could focus on one side of all available tools which match
+ the requirements and on the other side find possible vacancies of features
+ to match the requirements.
+ The gained results can be used to make a buying decision for the companies
+ or consults the software vendours on providing insights about the identified
+ market niche.
+\end_layout
+
+\begin_layout Standard
+The composed models can be used as a crash barrier for project managers,
+ software engineers or leaders of small software engineering companies to
+ stake out the joint efforts in SQA.
+ The proposed models will require initial investments in staff education,
+ tool licensing or change management on process level.
+ The main conclusion about the adaption of all proposed SQA models is, that
+ all have in common to reduce the costs of creating a software product on
+ long term base.
 \end_layout
 
 \begin_layout Standard
