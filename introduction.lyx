@@ -281,39 +281,39 @@ The research is separated in two phases, whereas the output of the first
 \end_layout
 
 \begin_layout Standard
-The main question to answer will be:
+The main question to answer will focus on what are the possibilities to
+ find appropriate SQA Processes tailored to small-scaled software engineering
+ companies? Thereof we have to answer a first question.
 \end_layout
 
 \begin_layout Enumerate
 Which pragmatic efforts and best practice models in SQA have to get prioritized
- by small-scaled software engineering enterprises 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "6093459"
-
-\end_inset
-
- in the developing process for two selected phases within the product creation
- cycle.
+ by small-scaled software engineering enterprises in the developing process
+ for two selected phases within the product creation cycle.
 \end_layout
 
 \begin_layout Standard
 Answered the first question, I am going to take the insights of the found
- results as a base for the second question, which will be:
+ results as a base for the second question.
 \end_layout
 
 \begin_layout Enumerate
-Which of the found best practices fits best to the relation between costs
- of introducing the test model and the value gained in cost reduction for
- assuring quality of software artifacts, such as requirements, specifications
- and implementation
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Nikolik2012"
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+[2.]
+\backslash
+setcounter{enumi}{2} 
+\end_layout
 
 \end_inset
 
-.
+ Which of the found best practices fits best to the relation between costs
+ of introducing the test model and the value gained in cost reduction for
+ assuring quality of software artifacts, such as requirements, specifications
+ and implementation.
 \end_layout
 
 \begin_layout Standard
