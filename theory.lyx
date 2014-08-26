@@ -187,19 +187,6 @@ status open
 
 
 \backslash
- 
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
 pageref{LastPage}
 \end_layout
 
@@ -215,65 +202,63 @@ Theory
 \begin_layout Standard
 The next chapter introduces the motivation for writing this paper and determines
  what kind of companies will be adressed by the research.
- As a first step, i am going to define acceptance criteria for the SQA models
+ As a first step, I am going to define acceptance criteria for the SQA models
  in small-scaled software engineering companies.
  In the following step, im going to summarize research literature which
  fits to the topic of this paper.
 \end_layout
 
 \begin_layout Standard
-The motivation to write the paper originated through own experiences working
+My motivation to write this paper originated through own experiences working
  in small companies, without operating a dedicated Quality Assurance Strategy
  within the software or product development process.
- The root of the problems can be summarized into two categories.
+ The origins of the problems can be summarized into two categories.
  On the one hand, lack of experience in the field and on the other hand
  preassure to deliver on time for the market.
  
 \end_layout
 
 \begin_layout Standard
-The first problem addresses the roles and the structure of small companys
+The first problem addresses the roles and the structure of small companies
  in general.
- A small companys strategy in staff selection is to employ generalists.
+ The usual staff selection strategy of a small company is to employ generalists.
  Ideally there should be an optimal mixture throughout specialists and generalis
 ts.
- 
+ In addition, it depends on each company differently, but from startups
+ to mid-stage sized companies, the generalists have generaly the superiority
 \begin_inset CommandInset citation
 LatexCommand cite
 key "RaismanAliDouglasGabbyWieberJordynRoss"
 
 \end_inset
 
- In addition, it depends on each company differently, but from startups
- to mid-stage sized companys, the generalists have generaly the superiority.
- 
+.
 \end_layout
 
 \begin_layout Standard
-The second problem faces the tactical advantage of small and therefore flexible
- and straightforward mentality of the companys.
- Due to a lack of processes and management obstacles in project management,
+The second problem faces the tactical advantages of small and therefore
+ flexible and straightforward mentality of the companies.
+ Due to the lack of processes and existing obstacles in project management,
  the implementation process itself is the single measurable process.
  To achieve the cost leader advantage in the market, it requires to deliver
- a product within highspeed and achieve simultaneously the required business
- goals.
+ a product rapidly and achieve simultaneously the required business goals.
  This short-term view on solving the problem will lead to abandoned hazardous
  sites generaly speaking, in terms of software engineering.
- The next team will garbage the previous work for an upcoming similiar project
+ The next team wont reuse the previous work for a similiar upcoming project
  and restart with the vision of solving the problem, this time, adequat.
  
 \end_layout
 
 \begin_layout Standard
-On the base of the two problems, i selected four requirements for the SQA
- Process for startups till mid-staged companys.
+On the base of the two problems, I selected four requirements for the SQA
+ process for startups untill mid-staged companies.
  1) Whenever a highly specialized field needs to be treated through the
  Software Quality Assurance process, buy the appropriate software solution,
  which helps you safe time and effort.
- 2) The the staff will not have a specialised education on the new SQA processe.
+ 2) The the staff will not have a specialised education on the new SQA processes.
  The method should require to be manageable for regular engineers 3) The
  optimal solution will focus on the ease and understandability of that SQA
- processes for all involved.
+ processes for all participants.
  However, the process should not depend or influence on the habitual development
  process.
  4) The resulted savings in time and money need to be evident and easily
@@ -281,23 +266,23 @@ On the base of the two problems, i selected four requirements for the SQA
 \end_layout
 
 \begin_layout Standard
-On exploring the different researches about best practives in SQA, i came
- across several numbers of authors, which have worked in different areas.
- In the following part, i am going to present the X most suitable papers
- found about state of the art SQA researches.
+On exploring the different researches about best practives in SQA I came
+ across several authors, which mostly have worked in different areas.
+ In the following part I am going to present the most suitable papers found
+ about state of the art SQA approaches.
 \end_layout
 
 \begin_layout Standard
 The first research has been developped by Ferrat and Mai (2010) and concentrates
- on the ideas behind tailoring software development .
+ on the ideas behind tailoring software development.
  The tailoring of SQA methods is split into three phases which has several
- aspect to solve as there are 1) Product Design >> Process Selection 2)
- Project Design >> Process Modification 3) Feedback Design >> Process Monitoring.
+ aspect to solve as there are 1) Product Design > Process Selection 2) Project
+ Design > Process Modification 3) Feedback Design > Process Monitoring.
  The goal of the study was to show the coherence and dependencies between
- the involved counterparts as the System Provider, the System User and the
- Development Team in a product development process.
+ the involved counterparts as the system provider, the system user and the
+ development team in a product development process.
  The main prospect was to be aware of, that the degree of product cutsomization,
- standardisation and further alignments have a big impact on the overall
+ standardisation and further alignments all have a big impact on the overall
  investments in quality.
  The degree of high or low standardization of the quality assurance process
  depends on mainly four criterias which will be determined through the specifica
@@ -312,15 +297,14 @@ tions in the product design phase.
  project.
  The presented model is very theoretically but shows a dependency overview
  and tries to break down the complexity of correlations in a project into
- understandable pieces.
- 
+ understandable pieces
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Ferratt:2010:TSD:1796900.1796963"
 
 \end_inset
 
-
+.
 \end_layout
 
 \begin_layout Standard
@@ -330,24 +314,24 @@ iation between process and product oriented Quality Assurance Models.
  components by capturing reusability metrics.
  The process oriented aspect takes different phases of the product develoopment
  cycle into concideration.
- The proposed Model creates in total 9 different Quality Assurance Stations
+ The proposed model creates in total 9 different Quality Assurance Stations
  which will be traversed sequencially as they are 1) Estimation & Forecasting
  Division 2) Planing & Reuse Center Standard Enforcing Division 3) Manufacturing
  Division 4) Monitoring the Manufacturing Division 5) Reusable Code Repository
  6) Evaluation and Imporvement 7) User Satisfaction 8) Reusable Service
  Repository.
- The model emphasis on generating and maintain repositories of reusable
+ The model emphasis on generating and maintaining repositories of reusable
  components to reduce costs by improving the speed of development.
- The Model takes into account the companies own policies and guarantees
+ The model takes into account the companies own policies and guarantees
  the quality by integrating evalutation, improvement and monitoring of reusable
- assets which are used in Components based Engineering.
+ assets which are used in Components based Engineering
 \begin_inset CommandInset citation
 LatexCommand cite
 key "tomar2013customized"
 
 \end_inset
 
-
+.
 \end_layout
 
 \begin_layout Standard
@@ -357,33 +341,28 @@ e Agile Software Quality Assurance Model (AQAM).
 ions and customizations focusing on small and medium sized agile software
  development teams to analyze and improve their Quality Assurance capabilities.
  The model describes 20 different Key Process Areas (KPA).
- Each KPA is described by 1)
-\emph on
- Guidelines 2)
-\emph default
- Benefits 3) Process 4) Best Practice 5) Templates 6) Customization and
- 7) Maturity Level.
+ Each KPA is described by 1) Guidelines 2) Benefits 3) Process 4) Best Practice
+ 5) Templates 6) Customization and 7) Maturity Level.
  The first step is to define the actual maturity level of an analyzed KPA
  Process.
- The Project Manager and the development team can propose an appropriate
+ The project manager and the development team can propose an appropriate
  action plan.
  By cherry picking the right combination of recommended actions, processes
- and artifacts from the AQAM Model for a single KPA Process.
+ and artifacts from the AQAM for a single KPA.
  The authors paper illustrates the workflow of AQAM by selecting and customizing
  the KPA Peer Review.
- The KPA consisted of seven Guidelines to different review types, seven
+ The KPA consisted of seven guidelines to different review types, seven
  best practices for scaffolding the requirements for the review, three templates
  for documentation purposes, four maturity levels with advised steps to
  achieve and the customization section which is sparated in a required and
- a recommended content declaration.
- 
+ a recommended content declaration
 \begin_inset CommandInset citation
 LatexCommand cite
 key "6093459"
 
 \end_inset
 
-
+.
 \end_layout
 
 \begin_layout Standard
@@ -396,7 +375,7 @@ on of software quality assurance efforts.
 The paper shows that more than 90% of the software development cost is spent
  on maintainance and evolution activities.
  Therefore, practitioners are in dire need of pragmatic approaches to effectivel
-y prioritize the SQA efforts .
+y prioritize the SQA efforts.
  The work is split into efforts for code level quality, which assures the
  quality of already implemented code.
  On the other hand change level quality, which focuses on a high level of
@@ -405,14 +384,14 @@ y prioritize the SQA efforts .
  Granularity, unit of prioritization must be small enough 2) Timely Feedback,
  act on feedback/results as quick as possible 3) Estimate Efforts, be aware
  of the amount of work 4) Evaluate Generality, evalutation of approach in
- different domains.
+ different domains
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Shihab:2011:PPS:1985793.1986007"
 
 \end_inset
 
-
+.
 \end_layout
 
 \begin_layout Standard
@@ -462,24 +441,16 @@ The possibility to create just in time reports to prioritize tasks on a
 \end_layout
 
 \begin_layout Standard
-
-\emph on
-The fiftth research written by Zahra, Khalid and Javed (2013) concentrates
- on 
-\emph default
-an efficient and effecctive new generation objective quality model for mobile
- applications
-\emph on
- and its tied to the the device limitations.
-
-\emph default
+The fifth research written by zahra, Khalid and Javed (2013) concentrates
+ on an efficient and effective new generation objective quality model for
+ mobile applications and it is tied to the device limitations.
  Developing mobile application is similiar to desktop application but there
  are certain factors that make mobile apps different.
  The biggest difference is the way people use it.
  Mobile apps are usually small in size and are designed in a way that they
  use less power.
  Users will delete or change the application if its not according to their
- needs and perception of quality.
+ needs and perception of quality
 \begin_inset CommandInset citation
 LatexCommand cite
 after "p.36"
@@ -498,11 +469,10 @@ The presented quality model is separated into two fields.
  Maintainability (Adaptability & Extensibility) 5) Data Integrity 6) Portability.
  The next field illuminates the role of the SQA team.
  The important factors which shuld be considered, to put value to the quality
- of mobile applications are as follows .
+ of mobile applications are as follows.
  1) Validation of End User Requirements 2) Monitor Mobile application production
  3) Validate performance of Mobile applicaiton 4) Tracking quality of mobile
- application after deployment.
- 
+ application after deployment
 \begin_inset CommandInset citation
 LatexCommand cite
 after "p.40"
@@ -510,13 +480,13 @@ key "spriestersbach2004quality"
 
 \end_inset
 
-
+.
 \end_layout
 
 \begin_layout Standard
 The previously presented research papers focus all on different stages in
  the product creation cycle.
- To keep this paper in an appropriate scale, i need to isolate all different
+ To keep this paper in an appropriate scale, I need to isolate all different
  cycles into two umbrella cycles.
  I choose to draw the line between the one process which focuses on the
  idea creation and the other process which focuses on the idea implementation.
@@ -528,20 +498,19 @@ The previously presented research papers focus all on different stages in
 \begin_layout Standard
 As a summary, I decided to link each of the most important product lifecycle
  stages, which are 1) Requirementes & Specifications: What should your product
- do and ow do you plan to do it? 2) Implementation & Design: What are you
+ do and ow do you plan to do it? 2) Design & Implementation: What are you
  going to program and how are you sure its right? to the evaluated requirements
  of the SQA process, which are 1) Tools over processes 2) Applicable to
  Generalized Staff 3) Not depending on development frameworks 4) Cost and
  time efficiency.
  By combining the gained information and matching it to the defined model,
- i am going to provide to each lifecycle stage an overview of found best
+ I am going to provide to each lifecycle stage an overview of found best
  practices and fullfillment to the requirements.
  
 \end_layout
 
 \begin_layout Standard
-On behalf of the previous introduced theory im going to present my hypothesis
- which is stated below.
+On behalf of the previous introduced theory im going to present my hypothesis:
 \end_layout
 
 \begin_layout Standard
@@ -560,10 +529,10 @@ status open
 
 \begin_layout Plain Layout
 SQA Processes tailored and prioritized to the requirements & specifications
- and to the implementation & design stages will increase product quality
- by focusing on tools, generalist labor, cost and time efficiency and compatibil
-ity to the actual engineering process for small-scaled software engineering
- enterprises.
+ and to the design & implementation stages will increase product quality.
+ This by focusing on tools, generalist labor, cost and time efficiency and
+ compatibility to the actual engineering process for small-scaled software
+ engineering enterprises.
  
 \end_layout
 

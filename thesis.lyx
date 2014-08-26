@@ -794,19 +794,6 @@ status open
 
 
 \backslash
- 
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
 pageref{LastPage}
 \end_layout
 

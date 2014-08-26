@@ -187,19 +187,6 @@ status open
 
 
 \backslash
- 
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
 pageref{LastPage}
 \end_layout
 
@@ -214,9 +201,9 @@ Conclusion
 
 \begin_layout Standard
 The central purpouse of this research is to find appropriate SQA methods
- for two development cycles, namely Requirements & Specification and Implementat
-ion & Design, which satisfy the requirements of small scaled software engineerin
-g companies.
+ for two development cycles, namely Requirements & Specification and Design
+ & Implementation, which satisfy the requirements of small scaled software
+ engineering companies.
  The defined requirements are as follows 1) Tools over processes 2) Applicable
  to Generalized Staff 3) Not depending on development frameworks  4) Cost
  and time efficiency.
@@ -239,13 +226,13 @@ This literature research examined in chapter two several papers dedicated
 
 \begin_layout Standard
 One of the main findings show that in the Requirements & Specification Phase
- a Knowledge-Based System to manage the requirements provides the needed
- information quality for decision making.
- To reach qualitatively high requirements, its essential to create an effectivel
+ in chapter three a Knowledge-Based System to manage the requirements, provides
+ the needed information quality for the decision making.
+ To reach qualitatively high requirements, its essential to create an effective
  review and acceptance process for the requirement creation.
  An other important aspect is the allocation of responsibilities to different
  divisions to forecast ressources and determine possible synergy potential.
- The discovered methods for the Implementation & Design phase ensure that
+ The discovered methods for the Design & Implementation phase ensure that
  the elaborated requirements get transformed into the requested features
  or services.
  One of the findings focuses on the code review process to eliminate the
@@ -258,9 +245,8 @@ One of the main findings show that in the Requirements & Specification Phase
 \end_layout
 
 \begin_layout Standard
-exceed the amount of work for this paper.
- The A main problem was to find the appropriate equiped tools for one model
- or a combination of different models exposed.
+To find the appropriate tools for one model or a combination of different
+ models exceed the amount of work for this paper.
  A possible area for future research could be the tool evaluation or definition
  for the proposed models.
  The research could focus on one side of all available tools which match

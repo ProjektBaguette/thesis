@@ -187,19 +187,6 @@ status open
 
 
 \backslash
- 
-\end_layout
-
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
 pageref{LastPage}
 \end_layout
 
@@ -215,12 +202,12 @@ Introduction
 \begin_layout Standard
 The models of the Software Quality Assurance (SQA) have been created for
  developing high quality software.
- However, these models target big-scale software engineering enterprises
- with sophisticated management, specialized resources and an almost infinite
+ These models mostly target big-scale software engineering enterprises with
+ sophisticated management, specialized resources and an almost infinite
  project budget.
- The implementation of all these models with agile teams, build up with
- allrounder resources, is for small-scaled enterprise economically hard
- or even impossible to bear 
+ However, the implementation of all these models with agile teams, build
+ up with allrounder resources, is for small-scaled enterprise economically
+ hard or even impossible to bear 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "6093459"
@@ -229,17 +216,17 @@ key "6093459"
 
 .
  Nevertheless, a software product is always bound to certain quality requirement
-s, have strict deadlines for certain artifacts and a cap on expenses which
- needs to be complied.
- To reach this goals its indispensable to introduce reasonable SQA models
- for small-scale software engineering enterprises for their software development
- cycles.
+s, has strict deadlines for certain artifacts and a cap on expenses which
+ all need to be complied.
+ To reach those goals its indispensable to introduce reasonable SQA models
+ for small-scaled software engineering enterprises for their software developmen
+t cycles.
 \end_layout
 
 \begin_layout Standard
-The main goal of this study is the literature research to determine the
- answers to the research questions.
- I am going to select three from all found best practice methods for each
+The main goal of this study is to determine the answers to the research
+ questions by a literature research.
+ I am going to examine three from all found best practice methods for each
  development cycle.
  The selection of the three methods depends on how appropriate the method
  can be tailored to a small-scaled software company.
@@ -247,12 +234,13 @@ The main goal of this study is the literature research to determine the
 
 \begin_layout Standard
 For each of the selected best practice methods, I am going to create a cost-bene
-fit analysis based on the available information found in the literature
- for the researched method or quality assurance task.
- To summarize all found results, i create a catalog consisting of an overview.
+fi//TODO->nutzbarkeitsanalyse t analysis based on the available information
+ found in the literature for the researched method or quality assurance
+ task.
+ To summarize all found results, I create a catalog consisting of an overview.
  The overview consits of the software process phases with its selected rational
- quality & assurance methods.
- Thereby, i will dispute conclusions found in the results to each method.
+ quality and assurance methods.
+ Thereby I will dispute conclusions found in the results to each method.
  The aim of the research should be, to be able to identify optimal SQA models
  and in relation to it the project life cycle 
 \begin_inset CommandInset citation
@@ -265,38 +253,31 @@ key "Abdel-Hamid:1988:ESQ:59189.59192"
 \end_layout
 
 \begin_layout Standard
-The insights gained through the comparisons of the different SQA Methods
- should help project managers, CIO's and development teams reaching the
- defined quality standards.
- Another positive aspect should be to reach the stadards without bloated
- project budgets, by selecting effective methods tailored to the needs and
- possibilities of the company.
+The insights gained through the comparison of the different SQA methods
+ should help project managers, CIOs and development teams reaching the defined
+ quality standards.
+ Another aspect should be to reach the stadards without bloated project
+ budgets, by selecting effective methods tailored to the needs and possibilities
+ of the company.
  
 \end_layout
 
 \begin_layout Standard
 The research is separated in two phases, whereas the output of the first
- phase leads to the input of the second phase.
+ phase will be the input of the second phase.
  
 \end_layout
 
 \begin_layout Standard
-The main question to answer will focus on what are the possibilities to
- find appropriate SQA Processes tailored to small-scaled software engineering
- companies? Thereof we have to answer a first question.
+The main question will answer what are the possibilities to find appropriate
+ SQA Processes tailored to small-scaled software engineering companies.
+ Thereof we have to answer a first question.
 \end_layout
 
 \begin_layout Enumerate
 Which pragmatic efforts and best practice models in SQA have to get prioritized
- by small-scaled software engineering enterprises 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "6093459"
-
-\end_inset
-
- in the developing process for two selected phases within the product creation
- cycle.
+ by small-scaled software engineering enterprises in the developing process
+ for two selected phases within the product creation cycle.
 \end_layout
 
 \begin_layout Standard
@@ -318,24 +299,18 @@ setcounter{enumi}{2}
 \end_inset
 
  Which of the found best practices fits best to the relation between costs
- of introducing the test model and the value gained in cost reduction for
- assuring quality of software artifacts, such as requirements, specifications
- and implementation
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Nikolik2012"
-
-\end_inset
-
-.
+ of introducing the model and the value gained in cost reduction for assuring
+ the quality of software artifacts, such as requirements, specifications
+ and implementatio?
 \end_layout
 
 \begin_layout Standard
 My expectations to the result of this study are as follows.
- I expect to find some reasonable and affordable SQA Methods for the phases
- in a development process.
- The Methods wil although have a big impact on the final product quality
- and a small impact on the overall project costs.
+ I expect to find some reasonable and affordable SQA methods for the selected
+ phases in the development process tailored to a small-scaled software engineeri
+ng company.
+ The methods should have a big impact on the final product quality and a
+ small impact on the overall project costs.
  
 \end_layout
 
