@@ -121,7 +121,11 @@ I declare that I have authored this thesis independently and without help
 \end_layout
 
 \begin_layout Standard
-Signature:
+This paper contains the following amount of words:
+\shape italic
+ 
+\series bold
+8000
 \end_layout
 
 \begin_layout Standard
@@ -132,7 +136,30 @@ Signature:
 \end_layout
 
 \begin_layout Standard
-Giuliano Grassi
+Place, date: Zurich, 31.
+ August 2013
+\end_layout
+
+\begin_layout Standard
+Name: Giuliano Grassi
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename images/signature.jpg
+	scale 3
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+___________________
+\end_layout
+
+\begin_layout Standard
+Signature
 \end_layout
 
 \end_body

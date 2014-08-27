@@ -175,6 +175,10 @@ ng Enterprises
 \end_layout
 
 \begin_layout Author
+Author: 
+\end_layout
+
+\begin_layout Author
 Giuliano Grassi 
 \begin_inset Newline newline
 \end_inset
@@ -787,19 +791,6 @@ status open
 \end_inset
 
 of 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
- 
-\end_layout
-
-\end_inset
-
-
 \begin_inset ERT
 status open
 
