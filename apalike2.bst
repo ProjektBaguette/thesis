@@ -202,9 +202,9 @@ FUNCTION {output.year.check}
 
 FUNCTION {output.bibitem}
 { newline$
-  "\bibitem[" write$
+  "\bibitem(" write$
   label write$
-  "]{" write$
+  "){" write$
   cite$ write$
   "}" write$
   newline$

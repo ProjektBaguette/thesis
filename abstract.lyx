@@ -87,19 +87,37 @@ Abstract
 \end_layout
 
 \begin_layout Standard
-TEXT
+Small-scaled software engineering companies often have no or an unstructured
+ quality assurance process.
+ The reasons are the lack of specialised staff and the need to hit the bottom-li
+ne profit margin for a project.
+ The paper pursues the goal to cherry-pick quality assurance processes by
+ regarding the special needs and conditions for small software engineering
+ companies.
 \end_layout
 
-\begin_layout Section*
-Categories and Subject Description
+\begin_layout Standard
+The results of this paper can help development leads or managers to design
+ the product creation process to be more valuable and profitable.
+ The found methods are applicable to generalized staff with the assistance
+ of convinient software tools.
+ 
 \end_layout
 
-\begin_layout Section*
-General Terms
+\begin_layout Standard
+I defined four requirements for small-scaled software engineering companies
+ and split the product creation process into two parts.
+ The literature research examined several papers in the field of software
+ quality assurance and found six methods which match the defined requirements.
 \end_layout
 
-\begin_layout Section*
-Keywords
+\begin_layout Standard
+The outcome shows that all suggested models target the reduction of costs
+ in creating a software product by investing in staff education, tool licensings
+ or changing processes.
+ The potential for increasing the efficiency in the Requirements & Specification
+s phase is high.
+ The economical extent of all those methods lies open to further research
 \end_layout
 
 \begin_layout Standard
@@ -126,10 +144,6 @@ adds table of contents entry
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-Abstract/Summary text
 \end_layout
 
 \end_body
