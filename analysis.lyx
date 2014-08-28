@@ -253,13 +253,13 @@ https://www.borland.com/products/
  products offer a solution.
  However, effective use of these tools, including requirements quality assurance
 , implies relatively high level of expertise.
- A Knowledge-Based System (KBS) as defined by helps by filling-in the attributes
- for a requirement, setting relationships between, suggests approaches for
- functional and non-functional requirements, traces change history, provides
- visualization, tracks the fullfillment degree, checks for inconsistencies
- in priorities, development order and pre-requisiste requirements, offers
- conflict resolution strategies, tracks estimations and real work effort
- and builds up statistics for analysis
+ A Knowledge-Based System (KBS) as defined by Pustalova and Bakev (2001)
+ helps by filling-in the attributes for a requirement, setting relationships
+ between, suggests approaches for functional and non-functional requirements,
+ traces change history, provides visualization, tracks the fullfillment
+ degree, checks for inconsistencies in priorities, development order and
+ pre-requisiste requirements, offers conflict resolution strategies, tracks
+ estimations and real work effort and builds up statistics for analysis
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Pustovalova2011"
@@ -323,7 +323,7 @@ key "ejaz2010quality"
 \end_layout
 
 \begin_layout Standard
-To escort the requirements dokument creation process with an appropriate
+To escort the requirements document creation process with an appropriate
  tool which fits all the stated needs should have high priority.
  Nevertheless, there are different tools for the requirements traceability.
  During my research none of the tools offers the team skills and audit integrati
@@ -335,7 +335,7 @@ on which are also required.
  and document creation process.
  As stated above, a cost reduction of 47.78% should be possible on any software
  system.
- In my opinion, such a high percentage will not be possible to reach by
+ But in my opinion, such a high percentage might be difficult to reach for
  small-scaled companies.
  I think, it is attributable to the maturity level (CMMI) of the researched
  companies.
@@ -344,10 +344,10 @@ on which are also required.
 \begin_layout Standard
 The creation of different divisions of responsibility as proposed by Tomar,
  Ashwin and Thakare (2013) can be applied to the requirement engineering
- process with introduction of a Estimation & Forecasting division and the
+ process with introduction of an Estimation & Forecasting division and the
  Standard & Rules enforcing divison.
  The estimation divison will try to predict by its experience cost, time,
- quality, risk and budget, efforts and number of people for the project.
+ quality, risk, budget, efforts and number of people for the project.
  The rules enforcing divison is responsible for implementing quality assurance
  planning policy and reuse strategies required within the organization.
  This divisons wont have an effect in a company with just one single project,
@@ -408,8 +408,8 @@ s of requirements and specifications should be clear to every involved staff
  will lead to miss the right path and walk into the wrong direction.
  Therefore, it is recommended to introduce a customizable review process
  for business relevant components as described by Hongying and Cheng (2011).
- The described guidelines and best practices described in the model can
- be used by every company.
+ The guidelines and best practices described in the model can be used by
+ every company.
  Only the presented templates like the Review Memo, Review Protocoll and
  Categorized Defect Table need to be adjusted to each company and tryed
  to be integrated into the issue tracking tool.
@@ -458,9 +458,9 @@ key "6093459"
 
 \end_inset
 
- The applicability to only generalized staff only works, if there are senior
- developers with enough experience and knowledge to quickly determine problems
- and suggest appropriate solutions.
+ The applicability to mostly generalized staff only works, if there are
+ senior developers with enough experience and knowledge to quickly determine
+ problems and suggest appropriate solutions.
  The work about an overview of some of the most common development frameworks
  describes for each framework a certain review process.
 \begin_inset CommandInset citation
@@ -484,17 +484,17 @@ key "marri2001models"
 \end_layout
 
 \begin_layout Standard
-A main characteristic of software engineering are changing requirements
- and historical growth of software systems, due to different reasons.
+A big challange of software engineering is changing requirements and historical
+ growth of software systems, due to different reasons.
  At a certain stage, the possibility of reaching a test coverage of 100%
  is not going to be financially bearable.
  One possibility is to focus on testing areas, where the risk of failures
- is high and prioritize testing activities as code review or unit test creation
- accordingly.
+ is high and prioritize testing activities such as code review or unit test
+ creation accordingly.
  The main problem is to find a suitable tool, which links source control
- systems with issue tracking systems, extracts the needed heuristics and
- processes it to a readable report or generates tasks for the Quality Assurance
- Engineer automatically
+ systems with issue tracking systems.The tool should extract the needed heuristic
+s and processes it to a readable report or generates tasks for the quality
+ assurance engineer automatically
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Shihab:2011:PPS:1985793.1986007"
@@ -502,14 +502,14 @@ key "Shihab:2011:PPS:1985793.1986007"
 \end_inset
 
 .
- The quality of the processed data needs to be high, for a reliable forecast.
+ The quality of the processed data needs to be high for a reliable forecast.
  Suitable rules for only checking in the affected code to the appropriate
  issue ticket is going to be inevitable for all developers.
  
 \end_layout
 
 \begin_layout Standard
-The approach of statistically analyse historical data of the code creation
+The approach of statistically analysing historical data of the code creation
  process needs a certain understanding and special knowledge for the tool
  configuration.
  The user which gets handed a report itself does not have to understand
@@ -517,7 +517,7 @@ The approach of statistically analyse historical data of the code creation
  Except for the developers, which need to be aware of the consequences of
  their inputs into the system, the model would work for generalized staff.
  A minimal training for the involved staff should be provided.
- The instant feedback for developers and Quality Assurance Engineers can
+ The instant feedback for developers and quality assurance engineers can
  be seen as the one of the main advantages in this model 
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -525,14 +525,15 @@ key "Shihab:2011:PPS:1985793.1986007"
 
 \end_inset
 
- to avoid the loos of time by studying code fragments written some weeks
+.
+ To avoid the loss of time by studying code fragments written some weeks
  or months ago.
  Practitioners are given a powerfull mechanism for prioritizing tasks, the
  adaption of this into an existing framework depends more on the compatibility
  of the used tools as of the framework itself.
  The return on investment can not be assumed through the commonly correctness
- of statistical elaborated data, but there are no detailed background informatio
-ns about it.
+ of statistical elaborated data and there are no detailed background information
+s about it.
  On the one hand, the efficiency raises by testing the high risk areas in
  the system.
  On the other hand, bugs can be everywhere and therefore I would recommend
@@ -545,7 +546,7 @@ The quality characteristics for mobile apps contain recommendations and
  on the quality assurance team.
  The quality model for mobile applications describes what the SQA team should
  perform for quality assurance activities throughout the development of
- a mobile App
+ a mobile app
 \begin_inset CommandInset citation
 LatexCommand cite
 key "zahra2013efficient"
@@ -558,9 +559,9 @@ key "zahra2013efficient"
  The functional testing does not influence the usability of the applicaiton.
  Therefore, it is urgently required to find out the areas where users get
  stuck or confused about how to proceed further to acomplish a task.
- Performanc in mobile applications is more crucial than any other applicaiton,
- as the user expects fast and efficient processing on handheld devices.
- The performance needs to be validated in all situation, normal as well
+ Performance in mobile applications is more crucial than in any other applicaito
+n, because the user expects fast and efficient processing on handheld devices.
+ The performance needs to be validated in all situations, normal as well
  as critical situations reffering to the network speed.
  As an important measure to keep customers happy it is needed to listen
  to their feedback by providing a possibility of bug reporting and reading
@@ -579,8 +580,8 @@ The global players on the app market as Apple and Google provide tools for
  quality tracking for mobile plattforms which are easy to learn and provide
  lots of user data for statistical refinement.
  The introduction of a functional requirement tool can be tricky, due to
- the lack of ressources and the high costs of automated testing its recommended
- to outsource the product testing and utilize a provider of effective SQA
+ the lack of ressources and the high costs of automated testing it is recommende
+d to outsource the product testing and utilize a provider of effective SQA
  processes for competing in global markets
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -590,8 +591,8 @@ key "spriestersbach2004quality"
 \end_inset
 
 .
- The need for specialized staff is not required, most activities require
- accuracy and passion for detail.
+ The need for specialized staff is not required but most activities require
+ accuracy and an eye for detail.
 \end_layout
 
 \begin_layout Standard
@@ -612,20 +613,20 @@ Summary
 \end_layout
 
 \begin_layout Standard
-The next section summarize the analyzed approaches and lists them into a
- matrix for a better overview.
- Each approach has the four requirements Tools, Generalists, Compatibility
+This section summarizes the analyzed approaches and lists them into a matrix
+ for a better overview.
+ Each approach has the four dimensions Tools, Generalists, Compatibility
  and Cost/Time which have been measured.
 \end_layout
 
 \begin_layout Standard
-First, I summarize the requirements phase wich contains the KBS, Divisions
+First I summarize the requirements phase wich contains the KBS, Divisions
  and Analysis Phase model.
  All models have a positive impact on the time to market and on the overall
  costs of the project.
  The approaches do not need specialised and expensive staff for the operation.
- Initial and ongoing trainings for the staff are needed to implement and
- operate the models efficiently.
+ But initial and ongoing trainings for the staff are needed to implement
+ and operate the models efficiently.
  The majority of practices can be abstracted and managed by tools but the
  adaption into the existing development process is the main problem to solve.
 \end_layout
@@ -839,7 +840,7 @@ Y
 \end_layout
 
 \begin_layout Standard
-Secondly, I summarize the implementation phase which consists of the Review,
+Second I summarize the implementation phase which consists of the Review,
  Test Priorisation and Mobile Quality model.
  Most practices have an impact on the cost side on long term.
  The initial investments will be rewarded by saving time for rework and
@@ -1064,7 +1065,7 @@ Example and use of model
 \end_layout
 
 \begin_layout Standard
-In the following section, I want to explain the adoption of the model by
+In the following section I want to explain the adoption of the model by
  analyzing a fantasy project named 
 \begin_inset Quotes eld
 \end_inset
@@ -1074,7 +1075,7 @@ Six Points
 \end_inset
 
 .
- As a first part im going to give a short summary over the project Six Points.
+ As a first part im going to give a short summary over the project.
  After the presentation of the project, I am going to analyse what kind
  of problems could have been handled by the proposed methods.
 \end_layout
@@ -1083,15 +1084,15 @@ Six Points
 The project Six Points got launched from business with a scope document
  of half a page, some designs for the screens, plenty of generalized developers
  but without seniors and without timeline.
- On project start, all devel- opers created requirement docuements according
+ On project start all developers created requirement docuements according
  to the presented screens.
- After one month, the first line of code got written.
- Some features got developed and got changed over time or got banned, till
- version 1 got successfully inspected.
- After this review people continued working on further features.
+ After one month the first line of code got written.
+ Some features got developed and got changed over time or got banned untill
+ version 1.0 got successfully inspected.
+ After this review the staff continued working on further features.
  Some features where already developed by the company in other projects,
  but the business rejected the reuse of these components.
- Within middle of development, the business introduced a new team of senior
+ Within middle of development the business introduced a new team of senior
  developers and the first quality engineer in history.
  After some time, the senior developers blamed the project for not fulfilling
  basic guidelines and requested time for a needed turnover.
@@ -1099,11 +1100,11 @@ The project Six Points got launched from business with a scope document
  the project, so there is no time for turnovers.
  Code refactorings and changes are needed anyway to reach the products quality
  goals.
- These changes results in solving one problem which leads to other problems.
- But, functional tests are not available, which results into multiple testing
+ These changes result in solving one problem which leads to other problems.
+ But functional tests are not available, which results into multiple testing
  cycles of the same functionality by the SQA.
- At a certain time in the project, version 1 can not be lunched due to lack
- of performance and lots of quality issues.
+ At a certain time in the project, version 1.0 can not be lunched due to
+ the lack of performance and lots of quality issues.
  
 \end_layout
 
@@ -1114,42 +1115,42 @@ The project has some points for improvement which we will illuminate.
 
 \begin_layout Enumerate
 Starting a project without QA measures in the requirements and specifications
- analysis is a problem
+ analysis is a problem.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-The business should track all business relevant goals into an KBS tool first,
- developers are not trained for writing requirements and it is not their
- job to analyse business needs
+The business should track all business relevant goals into an KBS tool first.
+ Developers are not trained for writing requirements and it is not their
+ job to analyse business needs.
 \end_layout
 
 \begin_layout Enumerate
-The elaborated Use Cases have never been audited, therefore lots of changes
- and an increase of costs for rework results
+The elaborated use cases have never been audited.
+ Therefore lots of changes and an increase of costs for rework results.
 \end_layout
 
 \begin_layout Enumerate
 Reuse of well established components and the satisfaction of best practices
  have not been enforced, usability and time to market will suffer from this
- decision 
+ decision.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-Developing and designing the application without QA measures is a problem
+Designing and developping the application without QA measures is a problem.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
 Review of a whole release or component without knowing how and what to measure
- has no qualitative high and reliable output.
+ generates no reliable output.
  
 \end_layout
 
 \begin_layout Enumerate
-Lack of automated tests shows that nobody can certainly determine the functional
-ity of the components nor isolate the source of the erro.
+Lack of automated tests show that nobody can certainly determine the functionali
+ty of the components nor isolate the source of the error.
  Error detection will cost most of the time to fix the failure.
  
 \end_layout
@@ -1157,8 +1158,8 @@ ity of the components nor isolate the source of the erro.
 \begin_layout Enumerate
 The QA is handling reactive and not proactive without having reports about
  what got changed and what are the risks of potential defects.
- Repeated workloads without potential results of being certain about a func-
- tioning component will result.
+ Repeated workloads without results of being certain about a functioning
+ component will result.
 \end_layout
 
 \end_deeper
