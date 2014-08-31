@@ -233,16 +233,15 @@ The main goal of this study is to determine the answers to the research
 \end_layout
 
 \begin_layout Standard
-For each of the selected best practice methods, I am going to create a cost-bene
-fi//TODO->nutzbarkeitsanalyse t analysis based on the available information
- found in the literature for the researched method or quality assurance
- task.
+For each of the selected best practice methods, I am going to create a use-of-po
+tential analysis based on the available information found in the literature
+ for the researched quality assurance method.
  To summarize all found results, I create a catalog consisting of an overview.
- The overview consits of the software process phases with its selected rational
- quality and assurance methods.
+ The overview consists of the software process phases with its selected
+ rational quality and assurance methods.
  Thereby I will dispute conclusions found in the results to each method.
  The aim of the research should be, to be able to identify optimal SQA models
- and in relation to it the project life cycle 
+ in relation to the project life cycle 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Abdel-Hamid:1988:ESQ:59189.59192"
@@ -256,7 +255,7 @@ key "Abdel-Hamid:1988:ESQ:59189.59192"
 The insights gained through the comparison of the different SQA methods
  should help project managers, CIOs and development teams reaching the defined
  quality standards.
- Another aspect should be to reach the stadards without bloated project
+ Another aspect should be to reach the standards without bloated project
  budgets, by selecting effective methods tailored to the needs and possibilities
  of the company.
  
@@ -301,7 +300,7 @@ setcounter{enumi}{2}
  Which of the found best practices fits best to the relation between costs
  of introducing the model and the value gained in cost reduction for assuring
  the quality of software artifacts, such as requirements, specifications
- and implementatio?
+ and implementation?
 \end_layout
 
 \begin_layout Standard

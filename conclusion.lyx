@@ -200,7 +200,7 @@ Conclusion
 \end_layout
 
 \begin_layout Standard
-The central purpouse of this research is to find appropriate SQA methods
+The central purpose of this research is to find appropriate SQA methods
  for two development cycles, namely Requirements & Specification and Design
  & Implementation, which satisfy the requirements of small scaled software
  engineering companies.
@@ -212,14 +212,14 @@ The central purpouse of this research is to find appropriate SQA methods
 
 \begin_layout Standard
 This literature research examined in chapter two several papers dedicated
- to different topics of the SQA optimisation.
+ to different topics of the SQA optimization.
  The major goal was to compare different SQA models and find six models
  which fit to the defined development cycles and requirements.
  The subsequent task of evaluating each of the six models against the defined
- requirement is another elimentary work found in chapter three.
+ requirement is another elementary work found in chapter three.
  A summary over all found models in relation to the requirements represented
  in two matrices provides a quick overview.
- At the end of the chapter the fantasy project got analysed and the selected
+ At the end of the chapter the fantasy project got analyzed and the selected
  SQA models were taken as a base for consulting.
  
 \end_layout
@@ -231,12 +231,12 @@ One of the main findings shows that in the Requirements & Specification
  To produce high quality requirements its essential to create an effective
  review and acceptance process for the requirement creation.
  An other important aspect is the allocation of responsibilities to different
- divisions to forecast ressources and determine possible synergy potential.
+ divisions to forecast resources and determine possible synergy potential.
  The discovered methods for the Implementation & Design phase ensure that
  the elaborated requirements get transformed into the requested features
  or services.
  The first finding focuses on the code review process to eliminate the source
- of errors or architectual problems in an early an phase.
+ of errors or architectural problems in an early an phase.
  The second finding suggests a model to support the testing engineers in
  the prioritization of testing activities by processing project data into
  significant heuristics.
