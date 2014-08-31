@@ -631,6 +631,13 @@ First I summarize the requirements phase which contains the KBS, Divisions
 \end_layout
 
 \begin_layout Standard
+\begin_inset VSpace 1.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 Table 1: Overview of the the Requirements & Specification models
 \end_layout
 
@@ -839,6 +846,13 @@ Y
 \end_layout
 
 \begin_layout Standard
+\begin_inset VSpace 1.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 Second I summarize the implementation phase which consists of the Review,
  Test Prioritisation and Mobile Quality model.
  Most practices have an impact on the cost side on long term.
@@ -849,6 +863,13 @@ Second I summarize the implementation phase which consists of the Review,
  The abstraction of the problem domain by selecting the appropriate tools
  can be seen as the major problem to solve, if the development framework
  accepts such an approach.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 1.5cm
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1059,6 +1080,13 @@ Y/N
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset VSpace 1.5cm
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 Example and use of model
 \end_layout
@@ -1105,6 +1133,13 @@ The project Six Points got launched from business with a scope document
  At a certain time in the project, version 1.0 can not be lunched due to
  the lack of performance and lots of quality issues.
  
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 1.5cm
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
